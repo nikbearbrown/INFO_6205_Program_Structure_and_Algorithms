@@ -12,7 +12,7 @@ In order to be considered for a TA for INFO 6205 Program Structure and Algorithm
 
 ## Contest Overview:
 
-Only students that meet department criteria and submit a sample of their teaching, critical thinking, and communication skills by creating a lesson for the course will be considered. DO NOT send a CV or e-mail requesting a TA job. Instead, prove that you understand the material and can teach by showing an example of your work.
+Only students that meet department criteria and submit a sample of their teaching, critical thinking, and communication skills by creating two lessons for the course. DO NOT send a CV or e-mail requesting a TA job. Instead, prove that you understand the material and can teach by showing an example of your work.
 
 Participants should ask to be a collaborator for this repository and upload their samples as a sub-folder of this directory.  
 
