@@ -1,11 +1,11 @@
-# TA Lesson Creation Contest - INFO 7390 Advances in Data Sciences and Architecture (The Art and Science of Data)
+# TA Lesson Creation Contest - INFO 6205 Program Structure and Algorithms
 
-In order to be considered for a TA for INFO 7390 Advances in Data Sciences and Architecture (The Art and Science of Data) in Fall 2023 you must:
+In order to be considered for a TA for INFO 6205 Program Structure and Algorithms in Fall 2023 you must:
 
 * Be a current MGEN or MSIS student
 * Not on Co-op
 * Have a 3.5 or better GPA
-* Have taken the course INFO 7390 before with an A- or better grade
+* Have taken the course INFO 6205 before with an A- or better grade
 * Submit a sample of your teaching, critical thinking, and communication skills by creating a lesson for the course.
 * Brownie points if you have taken the course from me in the past.
 
@@ -14,15 +14,15 @@ In order to be considered for a TA for INFO 7390 Advances in Data Sciences and A
 
 Only students that meet department criteria and submit a sample of their teaching, critical thinking, and communication skills by creating a lesson for the course will be considered. DO NOT send a CV or e-mail requesting a TA job. Instead, prove that you understand the material and can teach by showing an example of your work.
 
-Participants should ask to be a collaborator for this repository and upload their sample as a sub-folder of this directory.  
+Participants should ask to be a collaborator for this repository and upload their samples as a sub-folder of this directory.  
 
 ## Requirements
 
-Read the syllabus [https://github.com/nikbearbrown/INFO_7390_Art_and_Science_of_Data](https://github.com/nikbearbrown/INFO_7390_Art_and_Science_of_Data) and contest details [https://github.com/nikbearbrown/INFO_7390_Art_and_Science_of_Data/tree/main/TA_Contest_Fall_23](https://github.com/nikbearbrown/INFO_7390_Art_and_Science_of_Data/tree/main/TA_Contest_Fall_23). Create a lesson for one of the topics listed under "Weekly Schedule."  The lesson must include theory, working examples through code, slides, and a quiz related to the lesson.  I will start reviewing the submissions on August 19, 2023 and continue until all TA positions are filled.
+Read the syllabus and contest details. Create two lessons for one of the topics listed under "Weekly Schedule."  Each lesson must include theory, working examples through code, slides, and a quiz related to the lesson. One of the lessons must related to NP-completeness  I will start reviewing the submissions on August 19, 2023 and continue until all TA positions are filled.
 
 ## Why Participate?
 
-1. **Teaching Opportunity:** The winners will get to TA for INFO 7390
+1. **Teaching Opportunity:** The winners will get to TA for INFO 6205
 
 ## Guidelines:
 
