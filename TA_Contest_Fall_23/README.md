@@ -42,3 +42,7 @@ Read the syllabus and contest details. Create two lessons for one of the topics 
 6. **Assessment:** Effectiveness and relevance of the quiz questions.
 
 Submissions are now open! 
+
+## Submissions
+
+Create s subfolder with your name for submissions    
