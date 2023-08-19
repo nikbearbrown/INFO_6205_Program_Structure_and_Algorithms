@@ -176,7 +176,7 @@ def generate_neighbor(solution):
 	return new_solution
 
 def evaluate(solution):
-    # Replace with your objective function
+    # Replace with your objective function (Objective function can be anything that you need to optimize like x^2)
     return solution ** 2
 
 # Set initial values
@@ -236,7 +236,14 @@ def metropolis_with_annealing(initial_solution, num_iterations, initial_temperat
     
     return best_solution
 
-# ... (generate_neighbor, evaluate functions)
+def generate_neighbor(solution):
+	perturbation = random.uniform(-0.1, 0.1) # Adjust the range as needed
+	new_solution = solution + perturbation
+	return new_solution
+
+def evaluate(solution):
+    # Replace with your objective function (Objective function can be anything that you need to optimize like x^2)
+    return solution ** 2
 
 # Set initial values
 initial_solution = 2.0
