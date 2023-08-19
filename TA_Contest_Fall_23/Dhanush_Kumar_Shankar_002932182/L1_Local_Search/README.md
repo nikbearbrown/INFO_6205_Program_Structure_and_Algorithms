@@ -356,62 +356,82 @@ Designing efficient communication networks is a complex challenge. Local search 
 
 ## 💡 Are you ready to test your knowledge?
 
+1. Which of the following is FALSE about Local Search in AI? <br>
+    a) It is used in problem-solving and optimization tasks <br>
+    b) It starts from a single current node and moves to neighboring nodes <br>
+    c) It navigates the search space without backtracking <br>
+    d) It guarantees to find the global optimal solution <br>
 
-1. What is the main goal of a Local Search Algorithm? <br>
-	a) To find the absolute best solution globally  
-	b) To find a solution that is locally optimal within a specific neighborhood  
-	c) To find solutions by exploring the entire solution space  
-	d) To find the worst possible solution
-	
-<details> <summary>Click to reveal answer</summary> b) To find a solution that is locally optimal within a specific neighborhood </details>
+<details>
+   <summary>Click to reveal answer</summary>
+   d) It guarantees to find the global optimal solution
+</details>
 
-2. In the context of a maze, how does a Local Search Algorithm work? <br>
-	a) It explores the entire maze exhaustively  
-	b) It takes big leaps to quickly reach the destination  
-	c) It takes small steps and improves the current solution  
-	d) It only considers the starting point
-	
-<details> <summary>Click to reveal answer</summary> c) It takes small steps and improves the current solution </details>
+2. Gradient descent searches for: <br>
+    a) The maximum value of the cost function <br>
+    b) The cost function's inflection point <br>
+    c) An arbitrary point in the cost function <br>
+    d) The minimum value of the cost function <br>
 
-3. What does the Metropolis Algorithm add to the standard local search approach? <br>
-	a) It always accepts better solutions  
-	b) It explores the entire solution space  
-	c) It occasionally accepts worse solutions with a certain probability  
-	d) It improves the evaluation function
-	
-<details> <summary>Click to reveal answer</summary> c) It occasionally accepts worse solutions with a certain probability </details>
+<details>
+   <summary>Click to reveal answer</summary>
+   d) The minimum value of the cost function
+</details>
 
-4. How does Simulated Annealing enhance the Metropolis Algorithm? <br>
-	a) By using a fixed temperature throughout the search  
-	b) By cooling down the algorithm gradually  
-	c) By always accepting worse solutions  
-	d) By increasing the acceptance probability
-	
-<details> <summary>Click to reveal answer</summary> b) By cooling down the algorithm gradually </details>
+3. What is the central principle of the Metropolis Algorithm in Monte Carlo simulations? <br>
+    a) It accepts all states with a higher probability <br>
+    b) It accepts only new states with a lower energy <br>
+    c) It rejects all states with a lower probability <br>
+    d) It steps between states without considering energy or probability <br>
 
-5. Which statement best describes the behavior of Gradient Descent? <br>
-	a) It takes large steps in the direction of steepest increase  
-	b) It always chooses the random path for exploration  
-	c) It takes small steps in the direction of steepest decrease  
-	d) It avoids moving in any direction
-	
-<details> <summary>Click to reveal answer</summary> c) It takes small steps in the direction of steepest decrease </details>
+<details>
+   <summary>Click to reveal answer</summary>
+   a) It accepts all states with a higher probability
+</details>
 
-6. How does the Metropolis Algorithm handle exploring solutions? <br>
-	a) It explores all possible solutions systematically  
-	b) It only explores solutions in the vicinity of the starting point  
-	c) It randomly explores solutions without considering quality  
-	d) It explores solutions by selecting the best one at each step
-	
-<details> <summary>Click to reveal answer</summary> c) It randomly explores solutions without considering quality </details>
+4. Combining the principles of Metropolis and gradient descent can effectively help in: <br>
+    a) Overcoming local minima in cost function optimization <br>
+    b) Increasing the speed of convergence in gradient descent <br>
+    c) Removing the necessity of having a learning rate in gradient descent <br>
+    d) Ensuring global optimum is always reached in all optimization tasks <br>
 
-7. In the context of the Hopfield Network, what does a stable state represent? <br>
-	a) A global optimum  
-	b) A random solution  
-	c) A locally optimal solution  
-	d) An unreachable solution
-	
-<details> <summary>Click to reveal answer</summary> a) A global optimum </details>
+<details>
+   <summary>Click to reveal answer</summary>
+   a) Overcoming local minima in cost function optimization
+</details>
+
+5. Hopfield Nets are commonly used for: <br>
+    a) Image recognition tasks <br>
+    b) Time series forecasting <br>
+    c) Associative memory and pattern recognition <br>
+    d) Bayesian inference <br>
+
+<details>
+   <summary>Click to reveal answer</summary>
+   c) Associative memory and pattern recognition
+</details>
+
+6. In a Hopfield Network, if a pattern is stored and then a noisy version of that pattern is introduced, what is the expected outcome? <br>
+    a) The network will recognize the pattern accurately despite the noise <br>
+    b) The network will fail to recognize the pattern due to the noise <br>
+    c) The network will amplify the noise and distort the pattern <br>
+    d) The noise will have no impact on pattern recognition <br>
+
+<details>
+   <summary>Click to reveal answer</summary>
+   a) The network will recognize the pattern accurately despite the noise
+</details>
+
+7. Consider a local search algorithm, using a Metropolis-like approach to probabilistically accept uphill moves, applied on a function with multiple local minima. What would be the expected outcome of such an approach? <br>
+    a) The algorithm will always converge to the global minimum <br>
+    b) The algorithm will never escape from the first local minimum it encounters <br>
+    c) The algorithm could potentially escape local minima, but there's no guarantee of finding the global minimum <br>
+    d) The algorithm will ignore all local minima and go directly to the global minimum <br>
+
+<details>
+   <summary>Click to reveal answer</summary>
+   c) The algorithm could potentially escape local minima, but there's no guarantee of finding the global minimum
+</details>
 
 ## References
 1. Local search (optimization). (2023, May 20). In _Wikipedia_. https://en.wikipedia.org/wiki/Local_search_(optimization)
