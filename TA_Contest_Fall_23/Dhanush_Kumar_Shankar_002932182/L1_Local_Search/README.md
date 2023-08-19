@@ -35,7 +35,7 @@ A Local Search Algorithm is a type of **optimization technique** used in compute
 5. **Ceasing Criterion:** The algorithm persists in its search and improvement endeavors until a predefined stopping point is reached. This point of cessation can be defined in various ways, such as reaching a maximum number of iterations, achieving a particular threshold of improvement, or staying within a time limit.
 6. **Result Formation:** The ultimate output of the algorithm is the most optimal solution encountered throughout the search process. This solution is the outcome of the algorithm's iterative attempts to refine and enhance the current solution while abiding by the constraints and objectives of the problem.
 
-![Local Search](<Local search.png>) 
+![Local Search](Local search.png) 
 
 ### Pseudocode for Local Search
 
@@ -86,7 +86,7 @@ Local search is a powerful tool in the realm of optimization problems. It offers
 - Gradient Descent is an optimization technique used to find the minimum (or maximum) of a function. It's like finding the lowest point in a hilly terrain while wearing a blindfold. You start at a random point and iteratively take steps in the direction of the steepest decrease (negative gradient) of the function to reach the bottom of the hill.
 - In optimization problems, the "hill" represents the objective function you want to minimize, and the "steps" correspond to adjusting the parameters of the function's input. Gradient Descent is a local search because it focuses on finding the lowest point within a small region of the function's landscape.
 
-![Gradient_descent](<Gradient descent.png>)
+![Gradient_descent](Gradient_descent.png)
 
 **Connection to Local Search:**
 <br>
@@ -202,7 +202,7 @@ print("Optimal solution:", final_solution)
 - The Metropolis Algorithm and Simulated Annealing work hand in hand to optimize complex problems.
 - Simulated Annealing is like a metal being cooled down slowly to reduce defects, while the Metropolis Algorithm guides the search within this cooling process. It's like a hiker exploring a mountain range while occasionally accepting uphill paths to avoid getting trapped.
 
-![Sim_gif](<Simmulated annealing.gif>)
+![Sim_gif](Simmulated_annealing.gif)
 
 **Python Implementation**
 
@@ -282,7 +282,7 @@ While Hopfield Networks have some attractive properties, they also have limitati
 <br>
 Hopfield Networks epitomize local search by finding stable states (local optima) in an energy landscape. They iteratively update neuron states until they reach an energy-minimizing configuration. These networks excel in solving constraint satisfaction problems and pattern recognition tasks.
 
-![Hopfield_Nets](<Hopfield Nets.png>)
+![Hopfield_Nets](Hopfield Nets.png)
 
 **Python Implementation**
 
