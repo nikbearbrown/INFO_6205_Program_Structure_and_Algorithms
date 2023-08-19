@@ -1,5 +1,5 @@
 # TA Lesson Creation Contest - INFO 6205 Program Structures & Algorithms
-> [Lesson Video]() <br>
+> [Lesson Video](https://northeastern-my.sharepoint.com/:v:/g/personal/doshi_mee_northeastern_edu/Ecr23WUctLlOkvMs1y-6k0IBUt4YlqATRvnKjQ35hVoYhw?e=PVLQp6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19) <br>
 > [Presentation](https://northeastern-my.sharepoint.com/:p:/g/personal/doshi_mee_northeastern_edu/EU91uN2jH_NDkPCz6zNuNzkBLpHt06D1hQc38T6nbqi2rw?e=SfHbWs) <br>
 > [Resume](https://northeastern-my.sharepoint.com/:b:/g/personal/doshi_mee_northeastern_edu/EVipYINAyfJGswNqzX_XTDQBSpOcmucF-MJB63MUxpNZog?e=U1QaDt) <br>
 
