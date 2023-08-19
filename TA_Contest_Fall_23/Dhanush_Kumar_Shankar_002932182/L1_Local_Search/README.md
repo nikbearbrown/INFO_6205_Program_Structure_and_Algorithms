@@ -13,15 +13,11 @@ A Local Search Algorithm is a type of **optimization technique** used in compute
 >🤔 You probably might have a hard time understanding what the above definition means...
 
 ## In ElI5 Terms
-Imagine you're in a huge maze, and you want to find the best way out. The maze is so big that it would take forever to check every single path. So, instead, you decide to use a special trick called a Local Search Algorithm.
-
-Here's how it works: You start at a spot in the maze, and you look around at the paths nearby. You pick one path that looks promising, and you take a step in that direction. You keep doing this, taking small steps and always choosing the path that seems better than where you are right now.
-
-The trick is that you're not trying to find the absolute best way out of the entire maze – that would take too long. Instead, you're just trying to find the best way out of the area you're in at the moment. It's like you're finding the best "local" solution in the part of the maze you're exploring.
-
-This method helps you find a pretty good way out of the maze much faster than if you tried every path. However, there's a catch: sometimes, you might get stuck in a part of the maze that seems good, but it's not the very best way out of the whole maze. That's the trade-off for being quicker.
-
-So, a Local Search Algorithm is like a smart way to solve tough puzzles when you can't check everything. It's like taking small steps and always going in the direction that looks better, even if you might not end up finding the very best answer.
+- Imagine you're in a huge maze, and you want to find the best way out. The maze is so big that it would take forever to check every single path. So, instead, you decide to use a special trick called a Local Search Algorithm.
+- Here's how it works: You start at a spot in the maze, and you look around at the paths nearby. You pick one path that looks promising, and you take a step in that direction. You keep doing this, taking small steps and always choosing the path that seems better than where you are right now.
+- The trick is that you're not trying to find the absolute best way out of the entire maze – that would take too long. Instead, you're just trying to find the best way out of the area you're in at the moment. It's like you're finding the best "local" solution in the part of the maze you're exploring.
+- This method helps you find a pretty good way out of the maze much faster than if you tried every path. However, there's a catch: sometimes, you might get stuck in a part of the maze that seems good, but it's not the very best way out of the whole maze. That's the trade-off for being quicker.
+- So, a Local Search Algorithm is like a smart way to solve tough puzzles when you can't check everything. It's like taking small steps and always going in the direction that looks better, even if you might not end up finding the very best answer.
 
 ![Maze](Maze.png)
 
@@ -32,12 +28,12 @@ So, a Local Search Algorithm is like a smart way to solve tough puzzles when you
  - In such cases, local search aims to find a reasonably good solution within a reasonable amount of time, even if it might not be the absolute best solution.
 
 ## Working of a Local Search Algorithm
-1. **Initialization**: The algorithm starts with an initial solution to the problem. This solution can be generated randomly or using a heuristic.
-2. **Evaluation**: The quality of the initial solution is evaluated using an objective function. The objective function measures how good the solution is, based on the problem constraints and requirements.
-3. **Neighborhood search**: The algorithm generates neighboring solutions by making small modifications to the current solution. These modifications can be random or guided by heuristics.
-4. **Selection**: The neighboring solutions are evaluated using the objective function, and the best solution is selected as the new current solution.
-5. **Termination**: The algorithm terminates when a stopping criterion is met. This criterion can be a maximum number of iterations, a threshold value for the objective function, or a time limit.
-6. **Solution**: The final solution is the best solution found during the search process.
+1. **Starting Point Determination:** The algorithm kicks off with an initial solution that serves as the starting point for exploration. This starting solution can either be chosen at random or based on a set of informed guidelines.
+2. **Quality Assessment:** The effectiveness of the initial solution is gauged using an objective function. This objective function assesses how well the solution aligns with the specific requirements and constraints posed by the problem at hand.
+3. **Exploring Nearby Possibilities:** The algorithm sets out to uncover potential improvements by generating alternative solutions that are closely related to the current one. This is achieved through slight adjustments or modifications, which could be either randomly made or guided by predefined strategies.
+4. **Best Candidate Selection:** Each of the newly generated solutions is evaluated using the same objective function. From this evaluation, the solution that best adheres to the problem's objectives and limitations is identified and chosen as the new current solution.
+5. **Ceasing Criterion:** The algorithm persists in its search and improvement endeavors until a predefined stopping point is reached. This point of cessation can be defined in various ways, such as reaching a maximum number of iterations, achieving a particular threshold of improvement, or staying within a time limit.
+6. **Result Formation:** The ultimate output of the algorithm is the most optimal solution encountered throughout the search process. This solution is the outcome of the algorithm's iterative attempts to refine and enhance the current solution while abiding by the constraints and objectives of the problem.
 
 ![Local Search](<Local search.png>) 
 
@@ -84,7 +80,7 @@ Local search is a powerful tool in the realm of optimization problems. It offers
 2. **Local vs. Global Optima:** Optimization problems typically seek the best possible solution, either by maximizing or minimizing an objective function. A global optimum is the best solution across the entire solution space, while a local optimum is the best within a specific region. Local search algorithms focus on identifying these local optima – the highest peaks within the fog – which may not be the highest peaks globally.
 3. **Trade-offs for Efficiency:** Local search algorithms make a trade-off between efficiency and optimality. While they may not always lead to the absolute best solution, they can quickly guide you to good solutions without exhaustively evaluating every possibility. This efficiency is especially valuable when dealing with complex problems, such as routing optimization, machine learning model training, or game strategy planning.
 
-## Types of Local Search Algorithms
+## Some of the popular local search algorithms
 ### Gradient Descent
 ---
 - Gradient Descent is an optimization technique used to find the minimum (or maximum) of a function. It's like finding the lowest point in a hilly terrain while wearing a blindfold. You start at a random point and iteratively take steps in the direction of the steepest decrease (negative gradient) of the function to reach the bottom of the hill.
