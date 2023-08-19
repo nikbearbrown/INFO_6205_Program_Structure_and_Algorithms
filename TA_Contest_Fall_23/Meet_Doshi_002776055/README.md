@@ -5,6 +5,7 @@
 
 ## Personal Information
 | Name          | Meet Doshi                                    |
+| ---           | ---                                           |
 | NUID          | 002776055                                     |
 | Email         | doshi.mee@northeastern.edu                    |
 | Department    | MGEN, M.S. in Information Systems             |
