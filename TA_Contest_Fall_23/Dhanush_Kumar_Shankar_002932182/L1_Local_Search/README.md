@@ -109,7 +109,7 @@ def gradient_descent(initial_value, learning_rate, num_iterations):
     return current_value
 
 def compute_gradient(x):
-    # Replace with the derivative of your objective function with respect to x
+    # Replace with the derivative of your objective function with respect to x (This is given for x^2 )
     gradient = 2 * x
     
     return gradient
@@ -119,7 +119,6 @@ initial_value = 5.0
 learning_rate = 0.1
 num_iterations = 100
 
-# Call gradient descent function
 final_value = gradient_descent(initial_value, learning_rate, num_iterations)
 
 print("Optimal value:", final_value)
@@ -184,7 +183,6 @@ initial_solution = 2.0
 num_iterations = 1000
 temperature = 1.0
 
-# Call Metropolis algorithm function
 final_solution = metropolis_algorithm(initial_solution, num_iterations, temperature)
 
 print("Optimal solution:", final_solution)
@@ -250,7 +248,6 @@ initial_solution = 2.0
 num_iterations = 1000
 initial_temperature = 10.0
 
-# Call metropolis_with_annealing function
 final_solution = metropolis_with_annealing(initial_solution, num_iterations, initial_temperature)
 
 print("Optimal solution:", final_solution)
