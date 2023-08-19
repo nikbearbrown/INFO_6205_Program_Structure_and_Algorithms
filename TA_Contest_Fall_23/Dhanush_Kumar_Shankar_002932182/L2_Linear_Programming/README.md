@@ -173,78 +173,81 @@ The Simplex algorithm is a powerful optimization technique that efficiently solv
 
 
 ## 💡 Are you ready to test your knowledge?
-1. What is the primary goal of the Simplex algorithm in linear programming? <br>
-		a) To maximize the number of iterations <br>
-		b) To find a feasible solution within a bounded region <br>
-		c) To find the global optimal solution <br>
-		d) To simplify the problem to a single variable <br>
-
-<details> <summary>Click to reveal answer</summary> b) To find a feasible solution within a bounded region </details>
-
-2. In linear programming, what is the feasible region? <br>
-    a) The region where constraints are violated <br>
-    b) The region where the objective function is maximized <br>
-    c) The set of all possible solutions to the problem <br>
-    d) The region where constraints are satisfied simultaneously <br>
+1. What does the Simplex algorithm use for solving linear programming problems? <br>
+    a) Brute force <br>
+    b) Trial and error <br>
+    c) Iterative method <br>
+    d) Randomized approximation algorithms <br>
 
 <details>
    <summary>Click to reveal answer</summary>
-   d) The region where constraints are satisfied simultaneously
+   c) Iterative method
 </details>
 
-3. Which of the following statements is true about degeneracy in the Simplex algorithm? <br> 
-    a) Degeneracy is a term used for infeasible solutions <br>
-    b) Degeneracy indicates the presence of multiple optimal solutions <br>
-    c) Degeneracy leads to faster convergence in the algorithm <br>
-    d) Degeneracy is a characteristic of non-linear programming problems <br>
+2. In a Simplex algorithm, after each iteration,... <br>
+    a) the current solution gets worse <br>
+    b) the current solution improves <br>
+    c) the current solution stays the same <br>
+    d) there is no guarantee about the current solution <br>
 
 <details>
    <summary>Click to reveal answer</summary>
-   b) Degeneracy indicates the presence of multiple optimal solutions
+   b) the current solution improves
 </details>
 
-4. What is the pivot element in the Simplex algorithm? <br>
-    a) The element chosen to be the starting point of the algorithm <br>
-    b) The element that helps move from one feasible solution to another <br>
-    c) The element that is excluded from the constraints <br>
-    d) The element chosen randomly during each iteration <br>
+3. The Simplex Algorithm usually... <br>
+    a) finds a worse solution than the initial guess <br>
+    b) doesn't improve the initial guess <br>
+    c) finds a better solution than most other algorithms <br>
+    d) finds the best solution compared to all other algorithms <br>
 
 <details>
    <summary>Click to reveal answer</summary>
-   b) The element that helps move from one feasible solution to another
+   c) finds a better solution than most other algorithms
 </details>
 
-5. In the Simplex tableau, what does the entry in the objective function row and the pivot column represent? <br>
-    a) The cost coefficient of the pivot variable <br>
-    b) The value of the pivot variable in the current iteration <br>
-    c) The change in the objective function value by adjusting the pivot variable <br>
-    d) The ratio of the objective function coefficient to the pivot column coefficient <br>
+4. Feasible region in Simplex Algorithm refers to... <br>
+    a) the area where the algorithm stops running<br>
+    b) the set of vertices that satisfy the inequalities<br>
+    c) the set of values that make the objective function minimum<br>
+    d) none of the above<br>
 
 <details>
    <summary>Click to reveal answer</summary>
-   c) The change in the objective function value by adjusting the pivot variable
+   b) the set of vertices that satisfy the inequalities
 </details>
 
-6. When does the Simplex algorithm terminate? <br>
-    a) When it reaches the maximum number of iterations <br>
-    b) When an unbounded solution is encountered <br>
-    c) When a feasible solution is found <br>
-    d) When the optimal solution is reached <br>
+5. When can we say that a linear programming problem has multiple optimal solutions in the context of the Simplex Algorithm? <br>
+    a) When there is no improvement in the objective function value <br>
+    b) When the minimum value of the objective function corresponds to more than one point in the feasible region <br>
+    c) When the objective function is constant<br>
+    d) None of the above<br>
 
 <details>
    <summary>Click to reveal answer</summary>
-   b) When an unbounded solution is encountered
+   b) When the minimum value of the objective function corresponds to more than one point in the feasible region
 </details>
 
-7. What is cycling in the context of the Simplex algorithm? <br>
-    a) A process of selecting pivot elements with small coefficients <br>
-    b) A situation where the algorithm gets stuck in a loop without progress <br>
-    c) A method to quickly find the optimal solution by skipping iterations <br>
-    d) A technique to handle degeneracy in the initial tableau <br>
+6. Unbounded region in simplex algorithm represents... <br>
+    a) the optimal solution does not exist<br>
+    b) there are infinite number of optimal solutions<br>
+    c) the linear programming problem has no feasible solution<br>
+    d) the algorithm doesn't stop iterating<br>
 
 <details>
    <summary>Click to reveal answer</summary>
-   b) A situation where the algorithm gets stuck in a loop without progress
+   a) the optimal solution does not exist
+</details>
+
+7. When you analyze the constraints in terms of problem-solving in the Simplex Algorithm, you can suggest...<br>
+    a) the existence of a feasible solution <br>
+    b) the number of solutions without going through the Simplex Algorithm <br>
+    c) what the optimal value is without going through the Simplex Algorithm <br>
+    d) all of the above <br>
+
+<details>
+   <summary>Click to reveal answer</summary>
+   b) the number of solutions without going through the Simplex Algorithm
 </details>
 
 ## References
