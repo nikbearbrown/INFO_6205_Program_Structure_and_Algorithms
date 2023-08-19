@@ -282,7 +282,7 @@ While Hopfield Networks have some attractive properties, they also have limitati
 <br>
 Hopfield Networks epitomize local search by finding stable states (local optima) in an energy landscape. They iteratively update neuron states until they reach an energy-minimizing configuration. These networks excel in solving constraint satisfaction problems and pattern recognition tasks.
 
-![Hopfield_Nets](Hopfield Nets.png)
+![Hopfield_Nets](Hopfield_Nets.png)
 
 **Python Implementation**
 
