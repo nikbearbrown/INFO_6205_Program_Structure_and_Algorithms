@@ -2,6 +2,8 @@
 
 Uniform Cost Search (UCS) is a widely used graph search algorithm. The goal of UCS is to find the path from a starting node to a goal node with the most minor cost. Uniform-Cost Search is similar to Dijkstra’s algorithm
 
+[📹 Lesson 1 - Uniform Cost Search Video](https://drive.google.com/file/d/1-ZBDwfb-tD2PnNc0--pu7LmqaSA0ZoRC/view?usp=sharing)
+
 ![Map with Cities](https://cdn.discordapp.com/attachments/1105610567454052406/1142853926522191922/skunks.ai_np-complete_algorithm_cities_dd7a2e51-fb62-4e4d-8d62-2892e3c751da.png)
 *Image was generated using MidJourney*
 
