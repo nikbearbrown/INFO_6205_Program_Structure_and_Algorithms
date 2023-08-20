@@ -9,7 +9,7 @@ Welcome to the world of computational complexity! In this lesson, we will dive i
 
 | **Section** | **Link**              |
 |-------------|-----------------------|
-| Video       | [Video Link](#)       |
+| Video       | [Video Link](https://drive.google.com/file/d/1JKIWLGRUyhKZ6-gWV1QjWmgCs9ld6o5Q/view?usp=sharing)       |
 | Theory      | [Theory Link](Theory.pdf)      |
 | Quiz        | [Quiz Link](Quiz.pdf)        |
 | Slides      | [Slides Link](Slides.pdf)     |
