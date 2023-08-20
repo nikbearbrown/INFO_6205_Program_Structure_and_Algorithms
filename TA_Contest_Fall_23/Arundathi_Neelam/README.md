@@ -6,7 +6,7 @@
 |------------------|------------------------|
 | **Name**         | Arundathi Neelam       |
 | **NUID**         | 002771052              |
-| **Email**          | neelam.@northeastern.edu                  |
+| **Email**          | neelam.a@northeastern.edu                  |
 | **GPA**          | 3.8                    |
 | **Co-Op Status** | Not on Co-Op           |
 | **PSA Professor**| Prof Brown    (Brownie points 🙌)  |
