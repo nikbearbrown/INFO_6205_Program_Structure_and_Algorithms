@@ -2,9 +2,7 @@
 
 ----- 
 
-## Personal Information
 | Name          | Yashashree Patel                                                      |
-| ---           | ---                                                                   |
 | NUID          | 002767681                                                             |
 | Email         | patel.yasha@northeastern.edu                                          |
 | GPA           | 3.67                                                                  |
