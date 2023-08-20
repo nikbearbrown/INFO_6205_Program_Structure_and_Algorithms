@@ -17,3 +17,9 @@
 - Added code with explanations if needed
 - Simplex Algorithm explained in detail with example
 - Quiz to evaluate your knowledge on Linear Programming and Simplex Algorithms
+
+## Lesson 3 [P, NP, NP-Complete]
+- Covers the concepts of P, NP, and NP-Complete in theoretical computer science
+- Discusses the significance of the P vs. NP question
+- Includes examples, real-world implications, and challenges related to P, NP, and NP-Complete
+- Quiz to test your understanding of P, NP, NP-Complete, and the P vs. NP question
