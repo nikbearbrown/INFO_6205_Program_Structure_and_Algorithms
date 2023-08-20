@@ -15,7 +15,7 @@
 
 | **Lesson**    | **Link to Subfolder**                                         | **Video Link**                |
 |---------------|---------------------------------------------------------------|-------------------------------|
-| Lesson 1 - Uniform Cost Search | [🔗 Lesson-1_Uniform_Cost_Search](Lesson-1_Uniform_Cost_Search) | [📹 Video Link](lesson1_video_link) |
-| Lesson 2 - Intractability II: P, NP, and NP-Complete | [🔗 Lesson2 - Intractability II: P, NP, and NP-Complete](Lesson2_-_Intractability_II_P_NP_and_NP-Complete) | [📹 Video Link](lesson2_video_link) |
+| Lesson 1 - Uniform Cost Search | [🔗 Lesson1 - Uniform_Cost_Search](Lesson_1_Uniform_Cost_Search) | [📹 Video Link](lesson1_video_link) |
+| Lesson 2 - Intractability II: P, NP, and NP-Complete | [🔗 Lesson2 - Intractability II: P, NP, and NP-Complete](Lesson_2_Intractability_II_P_NP_and_NP-Complete) | [📹 Video Link](lesson2_video_link) |
 
 
