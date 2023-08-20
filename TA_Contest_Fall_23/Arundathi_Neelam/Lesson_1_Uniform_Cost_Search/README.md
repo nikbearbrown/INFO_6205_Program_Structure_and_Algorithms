@@ -16,6 +16,8 @@ Uniform Cost Search (UCS) is a widely used graph search algorithm. The goal of U
 
 ## **Step-by-Step Breakdown of the UCS Algorithm** 
 
+![UCS Viz](https://github.com/nikbearbrown/INFO_6205_Program_Structure_and_Algorithms/blob/main/TA_Contest_Fall_23/Arundathi_Neelam/Lesson_1_Uniform_Cost_Search/UCS.gif)
+
 1. **Initialize the starting node:** Set the distance of the starting node to 0 and insert it into the priority queue.
 2. **Repeat until the priority queue is empty:**
    a. Select the node with the lowest priority (smallest cumulative cost) from the priority queue.
