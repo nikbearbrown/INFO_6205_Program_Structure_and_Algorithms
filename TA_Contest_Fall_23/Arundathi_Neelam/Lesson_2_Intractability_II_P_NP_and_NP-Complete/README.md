@@ -2,6 +2,8 @@
 
 Welcome to the world of computational complexity! In this lesson, we will dive into the intriguing realm of P, NP, and NP-Complete problems. These concepts are fundamental in understanding the efficiency of algorithms and determining whether a problem is easy or hard to solve.
 
+<a href="https://drive.google.com/file/d/1JKIWLGRUyhKZ6-gWV1QjWmgCs9ld6o5Q/view?usp=sharing" target="_blank">📹 Lesson 2 - Video</a>
+
 ![NP-Complete](https://cdn.discordapp.com/attachments/1105610567454052406/1142857942597636206/skunks.ai_np-complete_algorithm_cities_103b4ea4-19dd-418d-9b0a-f3114c870fad.png)
 *Image was generated using MidJourney*
 
