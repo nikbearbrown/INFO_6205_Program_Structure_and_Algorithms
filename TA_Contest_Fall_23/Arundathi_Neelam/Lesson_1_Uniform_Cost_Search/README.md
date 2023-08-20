@@ -9,7 +9,7 @@ Uniform Cost Search (UCS) is a widely used graph search algorithm. The goal of U
 
 | **Section** | **Link**              |
 |-------------|-----------------------|
-| Video       | [Video Link](Video.mp4)       |
+| Video       | [Video Link](https://drive.google.com/file/d/1-ZBDwfb-tD2PnNc0--pu7LmqaSA0ZoRC/view?usp=sharing)       |
 | Theory      | [Theory Link](Theory.pdf)      |
 | Quiz        | [Quiz Link](Quiz.pdf)        |
 | Slides      | [Slides Link](Slides.pdf)      |
