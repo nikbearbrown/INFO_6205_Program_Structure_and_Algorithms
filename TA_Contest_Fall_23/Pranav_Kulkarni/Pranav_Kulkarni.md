@@ -19,8 +19,10 @@ Quiz:https://docs.google.com/document/d/1m7Ozv7ZFe7CyOG1LOqxRqghTQ33M4mTOWXQKAyL
 
 Summary: Lesson One is Related to Computational Analysis where I explain P, NP, and NP-Complete Problem. 
 
-Lesson-1 : https://youtu.be/T9SLMrtgGH4</br>
+Lesson-2 : https://youtu.be/T9SLMrtgGH4</br>
 Slides : https://docs.google.com/presentation/d/1eSctjsgZrM4-pVsnlCN-HVxb5ACoQavC1OmTfHkpTYc/edit?usp=sharing</br>
 Quiz: https://docs.google.com/document/d/1Pb_f5ifUQE68VGnqT8_LLKr9-d6O8GAOxfuiNkSIvzo/edit?usp=sharing</br>
 
 Summary: Lesson Two is Related to Complexity Analysis where I explain how to analyze a particular problem and we solve a leet code question . 
+
+Attached is a jupyter notebook to understand basics of function overloading/OOP in python . Parts of the notebook can be removed and put up as assignments . 
