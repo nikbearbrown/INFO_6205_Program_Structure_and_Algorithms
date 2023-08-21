@@ -22,8 +22,12 @@ The folder content can be broken down as follows:
     - Theory about Graphs, Types of Graphs, Representation of Graphs, Traversal techniques and DAGs with Real World applications
     - Code cells that contain working code of relevant algorithms
     - Quiz section with answers
+    - Lesson Recording: https://northeastern.zoom.us/rec/share/c9UJNnQxrHsJUbU32gfoe5onOijU5enRXD7wFOjyIFdlBhtgEHyeZAw1g33PdpRf.AjyW8BhmIfWdwLOX  
+      Passcode: h+B8F*Rk
 2. `/Lesson2`: Contains another .ipynb file called `Intractability.ipynb` that has the following content:
    - Theory about P, NP, NP-Hard, NP-Complete and Reduction
    - Quiz section with answers
+   - Lesson Recording: https://northeastern.zoom.us/rec/share/oaQgl3o7Ku8lhEGdnWUGV2aXb9OxiFBonBv7TvrA0nP8fuMvQd9Eg6yH68km3Cm2.hDNRD_ffAr6T0vN4  
+     Passcode: gu3@aE*R
 
 
