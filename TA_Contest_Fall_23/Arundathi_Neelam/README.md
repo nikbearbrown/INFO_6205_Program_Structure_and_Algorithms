@@ -9,6 +9,7 @@
 | **Email**          | neelam.a@northeastern.edu                  |
 | **GPA**          | 3.8                    |
 | **Co-Op Status** | Not on Co-Op           |
+| **PSA Grade**| A  |
 | **PSA Professor**| Prof Nik Bear Brown    (Brownie points 🙌)  |
 
 ## **Contents**
