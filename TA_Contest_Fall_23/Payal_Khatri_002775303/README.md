@@ -9,7 +9,7 @@
 ### Folder 3 : About Payal Khatri
 
 
-## About
+## Author Details:
 ### Name:	Payal Mahesh Khatri
 ### NUID:	002775303
 ### E-Mail:	khatri.p@northeastern.edu
