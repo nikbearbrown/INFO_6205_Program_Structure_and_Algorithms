@@ -1,17 +1,18 @@
 # TA Lesson Creation Contest - INFO 6205 Program Structures & Algorithms
 Floder 1 : Gale Shapley Algo with study material and video explanation 
+Floder 2 : Intractability lesson of NP,Np-completness with study material and assessment with both folders 
 
 ----- 
 
 ## Personal Information
 | Name          | Sankalp Awasthi                               |
-| ---           | ---                                           |
+| GPA           | 3.77                                          |
 | NUID          | 002789266                                     |
 | Email         | awasthi.s@northeastern.edu                    |
 | Department    | MGEN, M.S. in Software Eng Systems            |
 | Course        | Program Structures & Algorithms, Spring 2023  |
 | Grade         | A                                             |
-| Professor     | Under Nik Brown                                           |
+| Professor     | Under Nik Brown                               |
 
 ## Repository
 All the lessons include their theory, pseudocode, algorithm, code and some quiz contest.
