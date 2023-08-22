@@ -6,7 +6,7 @@ Master of Science in Information Systems
 
 kallepalli.l@northeastern.edu 
 
-CGPA - 3.76/4.0 
+CGPA - 3.81/4.0 
 
 Relevant courses: Program Structures and Algorithms, Data Structures and algorithms (Bachelors), Design and Analysis of Algorithms (Bachelors).
 
