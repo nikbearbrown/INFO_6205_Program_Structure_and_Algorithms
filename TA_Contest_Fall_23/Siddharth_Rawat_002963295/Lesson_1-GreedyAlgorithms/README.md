@@ -104,6 +104,8 @@ function huffman_decode(encodedString, root):
 
 This code first builds the Huffman tree from the input string's frequency table, then assigns codes to each character, encodes the input string, and finally decodes it, successfully reproducing the original string.
 
+### [Python Implementation](./huffman.py)
+
 ### What are heaps?
 
 A heap is a specialized tree-based data structure that satisfies the heap property. Heaps are often used to implement priority queues, which are abstract data types that allow for efficient retrieval of the element with the highest (or lowest) priority.
