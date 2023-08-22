@@ -6,6 +6,7 @@ Floder 2 : Intractability lesson of NP,Np-completness with study material and as
 
 ## Personal Information
 | Name          | Sankalp Awasthi                               |
+| ---           | ---                                           |
 | GPA           | 3.77                                          |
 | NUID          | 002789266                                     |
 | Email         | awasthi.s@northeastern.edu                    |
