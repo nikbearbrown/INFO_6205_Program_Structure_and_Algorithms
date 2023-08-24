@@ -16,7 +16,7 @@ Folder includes...
 1. Greedy Algorithm manual
 2. Greedy Algorithm multiple choice question with answers and solution
 3. Greedy Algorithm code examples (.ipynb)
-4. Greedy Algorithm video explanation: [Video link](https://northeastern.zoom.us/rec/share/5XkDGL5-eaMBzboQ4vLkZWWlerzv3pnevfMa8AbvbSgQfPyNly8HfHJCzbCDH_bu.mnGbbhWnQmMVPdke?startTime=1692906478000)
+4. Greedy Algorithm video explanation: [Greedy ALgorithm in 8 mins](https://northeastern.zoom.us/rec/share/5XkDGL5-eaMBzboQ4vLkZWWlerzv3pnevfMa8AbvbSgQfPyNly8HfHJCzbCDH_bu.mnGbbhWnQmMVPdke?startTime=1692906478000)
 
 ---
 
