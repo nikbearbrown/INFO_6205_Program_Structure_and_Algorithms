@@ -15,7 +15,11 @@
 ## **Contents**
 -------------------------------------------------------------------------------------------------------------------
 [Lesson 1 - Knapsack Problem ](https://drive.google.com/file/d/1TIPWInZPhw0YnMiVluSuhuOCx-p-HtU0/view?usp=sharing) 
+
 [Lesson 1 - Knapsack Animation Video](https://drive.google.com/file/d/1kwonr7q4sT9nKcB2XaVPzzU3GSMaIv5e/view?usp=sharing)
---------------------------------------------------------------------------------------------------------------------------------------
+
 [Lesson 2 - NP Completeness Explanation Video](https://drive.google.com/file/d/1b7GmAIt0ogYFWn72FDBCuXROuRe9EQ_7/view?usp=sharing)
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 
