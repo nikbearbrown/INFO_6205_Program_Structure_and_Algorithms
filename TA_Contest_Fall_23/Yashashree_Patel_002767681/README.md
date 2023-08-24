@@ -16,7 +16,7 @@ Folder includes...
 1. Greedy Algorithm manual
 2. Greedy Algorithm multiple choice question with answers and solution
 3. Greedy Algorithm code examples (.ipynb)
-4. Greedy Algorithm video explanation: [Greedy Algorithm in 8 mins](https://northeastern.zoom.us/rec/share/5XkDGL5-eaMBzboQ4vLkZWWlerzv3pnevfMa8AbvbSgQfPyNly8HfHJCzbCDH_bu.mnGbbhWnQmMVPdke?startTime=1692906478000](https://northeastern.zoom.us/rec/share/oXQjn684AH2k5fDc3eX9Ds3AYeWN_A5X23QIeCzFA-hH3_hHGC4hiuh6bQjDArJ3.wYI9Q1kGrYsc2I_d))
+4. Greedy Algorithm video explanation: [Greedy Algorithm in 8 mins](https://northeastern.zoom.us/rec/share/LVRWMOROlPXcnGxwyzorRvUvK9TZzj6AwoGi3YrRz05zSg0kO8ZOqCmgG8uXJq4r.3EnV25E4SZIjGXoK?startTime=1692906478000)
 
 ---
 
@@ -25,4 +25,4 @@ Folder includes...
 1. Approximation Algorithm manual
 2. Approximation Algorithm multiple choice question with answers and solution
 3. Approximation Algorithm code examples (.ipynb)
-4. Approximation Algorithm video explanation: [Approximation Algorithm in 5 mins](https://northeastern.zoom.us/rec/share/5XkDGL5-eaMBzboQ4vLkZWWlerzv3pnevfMa8AbvbSgQfPyNly8HfHJCzbCDH_bu.mnGbbhWnQmMVPdke?startTime=1692906478000](https://northeastern.zoom.us/rec/share/7eF0LS7HxGT6hbAsgg_NIDrxgMkivQmRgpzMqiLE5l94zyCq4PQp6ucycT0PkXa3.S6bacbFnFUGZn24G)https://northeastern.zoom.us/rec/share/7eF0LS7HxGT6hbAsgg_NIDrxgMkivQmRgpzMqiLE5l94zyCq4PQp6ucycT0PkXa3.S6bacbFnFUGZn24G)
+4. Approximation Algorithm video explanation: [Approximation Algorithm in 5 mins](https://northeastern.zoom.us/rec/share/tmGfL3M-0z5HhWHDgFKRBuZj0YL4P6sFBBUuGKgliNgikH3HTd8NuM3JsUR1aMfk.AeGDymIOHnww9e6M?startTime=1692912248000)
