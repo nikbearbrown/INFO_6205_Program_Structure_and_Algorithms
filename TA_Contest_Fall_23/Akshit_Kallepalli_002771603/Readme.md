@@ -1,4 +1,4 @@
-Akshit Kallepalli 
+Linga V S Akshit Kallepalli 
 
 Master of Science in Information Systems 
 
