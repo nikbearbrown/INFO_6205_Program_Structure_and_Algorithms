@@ -1,4 +1,3 @@
-# Skunks Skool
-Skunks Skool Tutorials
+# Algorithm Analysis 
 
 
