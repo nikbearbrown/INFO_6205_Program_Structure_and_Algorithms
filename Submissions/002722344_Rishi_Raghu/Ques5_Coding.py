@@ -1,51 +1,55 @@
+def create_skill_based_preferences(mentors, interns):
+    mentor_pref = {}
+    intern_pref = {}
 
-# TODO: Part 1 - Filter Out Non-Compatible Pairs
-def filter_compatible_pairs(mentors, interns):
-    """
-    TODO: Filter out non-compatible mentor-intern pairs based on their skills.
+    #TODO: Implement this function to create skill-based preferences for mentors and interns
+
+    return mentor_pref, intern_pref
+
+def find_stable_matching(mentor_preferences, intern_preferences):
+    unassigned_interns = list(intern_preferences.keys())
+    mentor_current = {}  # Current matchings for mentors
+    intern_current = {}  # Current matchings for interns
+
+    #TODO: Implement this function to find stable matching between mentors and interns
+
+    return mentor_current
+
+def remove_unstable_pairs(stable_pairs, unhappy_mentors, unhappy_interns):
+    new_stable_pairs = {}
+
+    #TODO: Implement this function to remove unstable pairs from stable_pairs
     
-    Input:
-    - mentors: List of dictionaries, each containing 'name' and a list of 'skills'
-    - interns: List of dictionaries, each containing 'name' and a list of 'skills'
-    
-    Output:
-    - A list of compatible mentor-intern pairs represented as tuples (mentor_name, intern_name)
-    """
-    # TODO: Write your code here
-    pass
+    return new_stable_pairs
 
-# TODO: Part 2 - Identify Initially Stable Pairs Based on Skills
-def find_initial_stable_pairs(compatible_pairs):
-    """
-    TODO: Identify a subset of pairs that could be considered "initially stable" based on skills alone.
-    
-    Input:
-    - A list of compatible mentor-intern pairs represented as tuples (mentor_name, intern_name)
-    
-    Output:
-    - A list of initially stable pairs represented as tuples (mentor_name, intern_name)
-    """
-    # TODO: Write your code here
-    pass
 
-# Example Usage
-if __name__ == "__main__":
-    mentors = [
-        {'name': 'Alice', 'skills': ['Python', 'Machine Learning']},
-        {'name': 'Bob', 'skills': ['Web Development', 'JavaScript']},
-        {'name': 'Carol', 'skills': ['Data Analysis', 'Python']}
-    ]
+mentors = [
+    {'name': 'Mentor_A', 'skills': ['Python', 'ML', 'Data Science', 'NLP']},
+    {'name': 'Mentor_B', 'skills': ['Web Development', 'JavaScript', 'React', 'Angular']},
+    {'name': 'Mentor_C', 'skills': ['Python', 'Flask', 'Web Development', 'React']},
+    {'name': 'Mentor_D', 'skills': ['ML', 'Python', 'NLP', 'Data Science']},
+    {'name': 'Mentor_E', 'skills': ['Web Development', 'HTML', 'CSS']}
+]
 
-    interns = [
-        {'name': 'Dave', 'skills': ['Python', 'Data Analysis']},
-        {'name': 'Eve', 'skills': ['Machine Learning', 'Python']},
-        {'name': 'Frank', 'skills': ['JavaScript', 'Web Development']}
-    ]
+interns = [
+    {'name': 'Intern_A', 'skills': ['Python', 'ML', 'NLP']},
+    {'name': 'Intern_B', 'skills': ['JavaScript', 'React', 'Angular']},
+    {'name': 'Intern_C', 'skills': ['Python', 'Flask']},
+    {'name': 'Intern_D', 'skills': ['ML', 'Data Science', 'Python']},
+    {'name': 'Intern_E', 'skills': ['HTML', 'CSS', 'JavaScript']},
+    {'name': 'Intern_F', 'skills': ['Python', 'Flask', 'React']}
+]
 
-    # First, find the compatible pairs (Part 1)
-    compatible_pairs = filter_compatible_pairs(mentors, interns)
-    print("Compatible Pairs:", compatible_pairs)  # Output should be calculated based on your implementation
+unhappy_mentors = ['Mentor_A']
+unhappy_interns = ['Intern_A', 'Intern_F']
 
-    # Then, identify initially stable pairs based on skills (Part 2)
-    initially_stable_pairs = find_initial_stable_pairs(compatible_pairs)
-    print("Initially Stable Pairs:", initially_stable_pairs)  # Output should be calculated based on your implementation
+# Test your code here
+
+# Task a
+mentor_preferences, intern_preferences = create_skill_based_preferences(mentors, interns)
+# Task b
+stable_pairs = find_stable_matching(mentor_preferences, intern_preferences)
+print("Stable Matches:", stable_pairs)
+# Task c
+new_stable_pairs = remove_unstable_pairs(stable_pairs, unhappy_mentors, unhappy_interns)
+print("New Stable Pairs:", new_stable_pairs)
