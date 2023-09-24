@@ -81,14 +81,24 @@ def min_charging_stops(graph, start, end, stations):
 
 # Test the function
 weighted_graph = {
-    'A': {'B': 5},
-    'B': {'A': 5, 'C': 5, 'D': 5},
-    'C': {'B': 5, 'E': 5},
-    'D': {'B': 5, 'E': 5},
-    'E': {'C': 5, 'D': 5}
+    'A': {'B': 3, 'C': 2},
+    'B': {'A': 3, 'D': 4},
+    'C': {'A': 2, 'D': 1, 'E': 5},
+    'D': {'B': 4, 'C': 1, 'E': 2},
+    'E': {'C': 5, 'D': 2}
 }
 
 # Example usage:
+
+maintenance_path_graph = {
+    'A': ['B', 'F'],
+    'B': ['A', 'C', 'E'],
+    'C': ['B', 'D'],
+    'D': ['C', 'E'],
+    'E': ['B', 'D', 'F'],
+    'F': ['A', 'E', 'G'],
+    'G': ['F']
+}
 
 graph = {
     'A': ['B', 'D'],
@@ -106,63 +116,16 @@ start = 'A'
 end = 'I'
 stations = ['B', 'D', 'F', 'H']
 
-
-
 result = shortest_path(graph, 'A', 'D')
 print("Shortest path:", result)
 
-result = maintenance_path(graph, 'A')
+result = maintenance_path(maintenance_path_graph, 'A')
 print("Maintenance Path:", result)
 
-# print(safest_path(weighted_graph, 'A', 'E'))  # Output could be ['A', 'C', 'D', 'E']
-# print(safest_path(weighted_graph, 'A', 'D'))  # Output could be ['A', 'C', 'D']
-# print(safest_path(weighted_graph, 'A', 'B'))  # Output could be ['A', 'B']
+print(safest_path(weighted_graph, 'A', 'E'))  
+print(safest_path(weighted_graph, 'A', 'D')) 
+print(safest_path(weighted_graph, 'A', 'B')) 
 
 result = min_charging_stops(graph, start, end, stations)
 print(result)
 
-# graph1 = {
-#     'A': ['B', 'C'],
-#     'B': ['A', 'D', 'E'],
-#     'C': ['A', 'F', 'G'],
-#     'D': ['B', 'H'],
-#     'E': ['B', 'H'],
-#     'F': ['C', 'I'],
-#     'G': ['C', 'I'],
-#     'H': ['D', 'E', 'I'],
-#     'I': ['F', 'G', 'H']
-# }
-# stations1 = ['B', 'E', 'G', 'I']
-# start1 = 'A'
-# end1 = 'I'
-# path1, stops1 = min_charging_stops(graph1, start1, end1, stations1)
-# print(f"Test Case 1:\nPath: {path1}\nCharging Stops: {stops1}")
-
-# graph2 = {
-#     'A': ['B', 'D'],
-#     'B': ['A', 'C', 'E'],
-#     'C': ['B', 'E'],
-#     'D': ['A', 'E'],
-#     'E': ['B', 'C', 'D'],
-#     'F': ['E', 'G'],
-#     'G': ['F', 'H'],
-#     'H': ['G', 'I'],
-#     'I': ['H']
-# }
-# stations2 = ['C', 'F', 'H']
-# start2 = 'A'
-# end2 = 'I'
-# path2, stops2 = min_charging_stops(graph2, start2, end2, stations2)
-# print(f"Test Case 2:\nPath: {path2}\nCharging Stops: {stops2}")
-
-# graph3 = {
-#     'A': ['B'],
-#     'B': ['A', 'C'],
-#     'C': ['B', 'D'],
-#     'D': ['C']
-# }
-# stations3 = ['B']
-# start3 = 'A'
-# end3 = 'D'
-# path3, stops3 = min_charging_stops(graph3, start3, end3, stations3)
-# print(f"Test Case 3:\nPath: {path3}\nCharging Stops: {stops3}")
