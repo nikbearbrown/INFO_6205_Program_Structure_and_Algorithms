@@ -1,6 +1,6 @@
 SUMMARY
 
-In this assignment, I explored various concepts related to the Gale-Shapley algorithm and stable matching in different scenarios. Here is a summary of the key points covered in the assignment:
+In this assignment, I explored various concepts related to the Gale-Shapley algorithm and stable matching in different scenarios. Here is a summary of the key points covered 
 
 1. Stable Matching in Worker Teams:
    - Stable matching refers to a scenario where workers are assigned to teams, and the assignments are such that no worker and team would prefer to be matched with each other over their current assignments, and there are no unstable pairs.
@@ -28,5 +28,5 @@ In this assignment, I explored various concepts related to the Gale-Shapley algo
    - The Python function `find_stable_matching` takes preferences of designers and brands and returns the matching.
 
 7. Deferred Acceptance Property:
-   - We discussed the concept that the existence of a pair where one is ranked first in the preference list of the other guarantees their assignment in any stable matching.
+   - I picked the concept that the existence of a pair where one is ranked first in the preference list of the other guarantees their assignment in any stable matching.
 
