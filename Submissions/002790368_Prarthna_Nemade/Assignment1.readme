@@ -1,0 +1,14 @@
+Assignment 1:
+
+Name: Prarthna Nemade (002790368)
+Professor: Nik Bear Brown
+
+Depth First Search:
+
+Depth-First Search (DFS) is a graph traversal algorithm that explore nodes in a depth-first manner, commonly implemented using recursion. 
+It efficiently navigates a graph by deeply exploring branches before backtracking. 
+This process is memory-efficient for sparse graphs but may lead to stack overflow errors for deep graphs. 
+Some programming languages optimize stack memory usage for tail-recursive functions. 
+DFS is a valuable tool for solving various graph-related problems. 
+You can find example code for implementing DFS in your preferred language in associated code files.
+The "Graph Cloning Using Depth-First Search (DFS)" project showcases how to clone an undirected graph efficiently. By using DFS, it creates a deep copy of the graph while preserving its structure and connections. To clone a graph, simply use the provided cloneGraph method with the original graph's starting node as an argument, and it will return the root node of the cloned graph. This project demonstrates the practical application of DFS for graph cloning, a common problem in computer science and network analysis.
