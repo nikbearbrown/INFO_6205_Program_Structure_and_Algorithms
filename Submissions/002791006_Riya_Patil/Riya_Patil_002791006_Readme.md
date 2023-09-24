@@ -25,6 +25,6 @@ Additionally, the assignment aimed to foster critical thinking and logical reaso
 ### References
 - For creating graphs : https://www.desmos.com/calculator
 - For understanding and creating problems : https://www.inf.ufpr.br/andre/textos-CI1238-INFO7056/Algorithm%20Design%20-%20Jon%20Kleinberg%2C%20%C3%89va%20Tardos.pdf
-                                          : https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V
+https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V
 - For flowcharts : draw.io
 - ChatGPT
