@@ -116,7 +116,7 @@ start = 'A'
 end = 'I'
 stations = ['B', 'D', 'F', 'H']
 
-result = shortest_path(graph, 'A', 'D')
+result = shortest_path(graph, 'A', 'H')
 print("Shortest path:", result)
 
 result = maintenance_path(maintenance_path_graph, 'A')
