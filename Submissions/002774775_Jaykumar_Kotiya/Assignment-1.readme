@@ -60,6 +60,9 @@ Q-5 Summary
 
 In summary, the problem revolved around efficiently building a wall with a limited number of bricks per row. I provided a simple yet effective algorithm that calculated the minimum number of rows needed ('R') based on the total number of bricks ('n') and the maximum bricks per row ('c'). This algorithm was validated as correct and efficient for minimizing the number of rows required.
 
+Q-8 Summary
+
+In this problem i undersand that three football teams: Team A, Team B, and Team C. Each of these teams had three players, and all the players were assigned different ratings for the same positions on the field. Our task was to discover if there existed a set of strategies for these three teams, ensuring that no team could alter its strategy to gain an advantage over the other two teams. Essentially, we were on a quest to identify a stable set of strategies within the context of this three-team competitive scenario. It became clear that our goal was to find strategies for each team in such a way that they couldn't enhance their win rates by making strategic adjustments. The key takeaway was that, regardless of the strategy one team selected, another team always had the opportunity to find a superior one. This realization led us to conclude that there was no stable set of strategies for these three teams in this particular scenario. 
 
 Q-9 Summary
 
