@@ -83,6 +83,40 @@ In summary, the problem revolved around efficiently building a wall with a limit
 effective algorithm that calculated the minimum number of rows needed ('R') based on the total number of bricks ('n') and the maximum 
 bricks per row ('c'). This algorithm was validated as correct and efficient for minimizing the number of rows required.
 
+Q-6 Summary
+
+In this problem I learned several important concepts using the help of refrences and chatgpt.
+I started by understanding the time complexities of the two algorithms (n³ and 2ⁿ) and how they relate to the input size n.
+
+I compared the growth rates of the two algorithms and recognized that exponential growth (2ⁿ) outpaces polynomial growth (n³) 
+significantly as n becomes large.
+
+To find the value of n at which the two algorithms intersect, I solved the equation n³ = 2ⁿ using numerical methods or 
+computational tools. The result, n ≈ 9.32, indicates the threshold at which Algorithm B becomes faster.
+
+This problem helped me grasp the importance of analyzing algorithmic complexities and comparing their growth rates, 
+which is crucial for choosing the most efficient algorithm for different input sizes. Additionally, it highlighted 
+the use of numerical methods for solving equations when algebraic solutions are not readily available.
+
+Q-7 Summary
+
+In solving this problem concerning stable matching within the context of student-company preferences, I encountered a scenario where a 
+student (s) and a company (c) ranked each other as their top preferences. This was a bit perplexing at first, so I decided to seek some 
+help from ChatGPT to clarify the problem.
+
+With a clearer understanding of the challenge, I proceeded to determine whether, in every stable matching for this instance, 
+the pair (s, c) must be included. To address this challenge, I began by explaining the concept of a stable matching, which 
+ensures that no two individuals prefer each other over their current partners, thereby preventing any incentive for individuals to 
+break away.
+
+After some careful analysis, it became evident that since both s and c preferred each other most highly, they would naturally choose 
+each other in any stable matching. I realized that matching either of them with another option would lead to unhappiness for at least 
+one party, violating the stability condition.
+
+Therefore, with the guidance and insights gained through this process, I concluded that in any stable matching for this instance, 
+the pair (s, c) must indeed be included. This conclusion underscored the importance of considering individual preferences in forming 
+stable matchings and provided a satisfactory solution to the problem presented.
+
 Q-8 Summary
 
 In this problem i undersand that three football teams: Team A, Team B, and Team C. Each of these teams had three players, and all the 
