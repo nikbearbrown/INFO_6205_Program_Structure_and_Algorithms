@@ -60,3 +60,16 @@ Discussed what factors could be added to the problem statements to make them cha
 - Additionally after forming the answers together, brainstormed on potential caveats in the solutionand worked upon those to refine it and arrive at efficient solutions, which handle edge case and scenarios I might have missed
 - Re-fed the solutions with problem statements to Chat-GPT and Bard to test correctness of the solution and make iteration upon the code/answer.
 - Used the AI tools to discuss the correctness of the solution and arrive at derivations and proofs for the same.
+
+**- Challenges:**
+
+- It was difficult to ensure that the new issues still corresponded to what was being taught in class.
+- The difficulties have to be hard but not unreasonable to solve.
+- The concerns have to feel like they were from the actual world.
+
+**- Learnings:**
+
+- Consider what the students should learn from addressing the challenge.
+- It is critical to begin with a simple query and then go to a more sophisticated one.
+- Making a good problem requires testing and feedback.
+- A excellent problem evaluates not only your knowledge but also your ability to think and solve problems.
