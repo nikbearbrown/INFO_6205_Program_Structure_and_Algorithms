@@ -1,0 +1,29 @@
+First Name: Jaykumar Govind
+Last Name : Kotiya
+NU_ID     : 002774775
+
+Assignment-1 : "Summary of assignment 1" 
+
+Q-1 Summary
+
+
+
+Q-2 Summary
+
+In this example, I have used wiki website, khanAcademic website and used
+chatGpt to undersand the concept of Asymptotic notations. Resourses links
+are mentioned below. 
+
+I've demonstrated that the function f(n) = 2n^2 + 3n is indeed O(g(n)), 
+where g(n) = n^2. This means that f(n) grows at most as fast as g(n) for 
+some positive constant factor and for sufficiently large values of n.
+
+Asymptotic notations, such as Big O, allow us to analyze the growth rates 
+of functions and compare their efficiencies as the input size (n) grows. 
+In this case, I've determined that the growth rate of f(n) is no faster 
+than that of g(n) when n becomes sufficiently large.
+
+Resourses links:
+https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/functions-in-asymptotic-notation
+https://en.wikipedia.org/wiki/Big_O_notation
+tool used : chatGpt
