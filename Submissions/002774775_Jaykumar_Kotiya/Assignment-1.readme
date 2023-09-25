@@ -58,6 +58,21 @@ In summary, Algorithm B (Binary Search) demonstrated superior efficiency, partic
 
 Q-5 Summary
 
+In summary, the problem revolved around efficiently building a wall with a limited number of bricks per row. I provided a simple yet effective algorithm that calculated the minimum number of rows needed ('R') based on the total number of bricks ('n') and the maximum bricks per row ('c'). This algorithm was validated as correct and efficient for minimizing the number of rows required.
+
+
+Q-9 Summary
+
+This Question was extremly hard to understand I took help from chatGpt many times to understand this problem.
+In this problem, I learned about the application of the Gale-Shapley matching algorithm in the context of the NBA playoff format. Initially, I modified the algorithm to match Western Conference teams against Eastern Conference teams, considering their preference lists. Then, I explored the concept of stability by shuffling the preference lists multiple times and calculating the percentage of stable playoff matches.
+
+I also considered the elimination of teams after each round and how the Gale-Shapley algorithm can be repeatedly applied to create stable matches. It's important to ensure balanced eliminations between conferences to maintain stable lists.
+
+However, I discovered that when combining the lists so that any team can be matched against any other irrespective of conference, the Gale-Shapley algorithm alone may not guarantee stable matches, resembling the stable roommate problem.
+
+Lastly, I conducted experiments to measure the execution time of the algorithm with different list sizes, finding that the execution time quadrupled as the list size doubled due to the algorithm's time complexity. This problem provided valuable insights into matching algorithms and their practical applications in real-world scenarios.
+
+
 
 
 
@@ -66,4 +81,4 @@ Q-5 Summary
 Resourses links:
 https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/functions-in-asymptotic-notation
 https://en.wikipedia.org/wiki/Big_O_notation
-tool used : chatGpt
+tool used : chatGpt used to get answers and creating examples outof the given examples.
