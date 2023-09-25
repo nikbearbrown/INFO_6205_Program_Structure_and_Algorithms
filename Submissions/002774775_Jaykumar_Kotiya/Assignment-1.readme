@@ -6,47 +6,66 @@ Assignment-1 : "Summary of assignment 1"
 
 Q-1 Summary
 
-In this example, I've used Big O notation to compare the growth rates of two functions, f(n) and g(n). I found that as n becomes large, g(n) = n^3 grows faster than f(n) = 2n^2 + 3n. This demonstrates how Big O notation helps in understanding and comparing the growth rates of functions.
+In this example, I've used Big O notation to compare the growth rates of two functions, f(n) and g(n). I found that as n becomes large,
+ g(n) = n^3 grows faster than f(n) = 2n^2 + 3n. This demonstrates how Big O notation helps in understanding and comparing the growth 
+ rates of functions.
 
 Q-2 Summary
 
-I've demonstrated that the function f(n) = 2n^2 + 3n is indeed O(g(n)), where g(n) = n^2. This means that f(n) grows at most as fast as g(n) for some positive constant factor and for sufficiently large values of n.
+I've demonstrated that the function f(n) = 2n^2 + 3n is indeed O(g(n)), where g(n) = n^2. This means that f(n) grows at most as fast 
+as g(n) for some positive constant factor and for sufficiently large values of n.
 
-Asymptotic notations, such as Big O, allow us to analyze the growth rates of functions and compare their efficiencies as the input size (n) grows. In this case, I've determined that the growth rate of f(n) is no faster than that of g(n) when n becomes sufficiently large.
+Asymptotic notations, such as Big O, allow us to analyze the growth rates of functions and compare their efficiencies as the 
+input size (n) grows. In this case, I've determined that the growth rate of f(n) is no faster than that of g(n) when n becomes 
+sufficiently large.
 
-Declaration: In all the above example, I have used wiki website, khanAcademy website to understand the topic and used chatGpt to understand and create a sample question concept of Asymptotic notations. Resourses links are mentioned below.
+Declaration: In all the above example, I have used wiki website, khanAcademy website to understand the topic and used chatGpt to 
+understand and create a sample question concept of Asymptotic notations. Resourses links are mentioned below.
 
 
 Q-3 Summary
 
-I encountered a problem involving the allocation of medical residents to hospitals. In this scenario, there were multiple hospitals, each with a specific number of available positions for medical residents. Likewise, medical residents were seeking employment and had their own preferences regarding which hospitals they wanted to work at, considering factors such as the working environment, specialization, and salary.
+I encountered a problem involving the allocation of medical residents to hospitals. In this scenario, there were multiple hospitals, 
+each with a specific number of available positions for medical residents. Likewise, medical residents were seeking employment and had 
+their own preferences regarding which hospitals they wanted to work at, considering factors such as the working environment, 
+specialization, and salary.
 
-The primary goal was to find a stable assignment of residents to hospitals that met specific criteria. First, all available positions in each hospital needed to be filled. Second, there should be no unstable pairs where both the resident and the hospital preferred each other over their current assignments.
+The primary goal was to find a stable assignment of residents to hospitals that met specific criteria. First, all available positions 
+in each hospital needed to be filled. Second, there should be no unstable pairs where both the resident and the hospital preferred each 
+other over their current assignments.
 
-To illustrate the problem, I considered a simple example with three hospitals (H1, H2, and H3) and four medical residents (R1, R2, R3, and R4). Each resident had preferences for hospitals, and each hospital had a certain number of positions to offer.
+To illustrate the problem, I considered a simple example with three hospitals (H1, H2, and H3) and four medical residents (R1, R2, R3, 
+and R4). Each resident had preferences for hospitals, and each hospital had a certain number of positions to offer.
 
 I applied the Gale-Shapley algorithm, which involved a step-by-step process:
 
 1. I started with all residents being unmatched and all hospitals having open positions.
 2. Then, I iterated through the residents one by one based on their preferences.
 3. Each resident proposed to their most preferred hospital that hadn't rejected them yet.
-4. Hospitals considered the proposals and accepted a resident if they had an open position. If a hospital had already filled all its positions, I compared the proposing resident with the least preferred resident currently assigned to the hospital. If the proposing resident was preferred, the least preferred resident was unassigned.
+4. Hospitals considered the proposals and accepted a resident if they had an open position. If a hospital had already filled all its 
+positions, I compared the proposing resident with the least preferred resident currently assigned to the hospital. If the proposing 
+resident was preferred, the least preferred resident was unassigned.
 5. I continued this process until each hospital had filled all its positions.
 
-Ultimately, the algorithm ensured that each hospital had filled its available positions, and no resident and hospital preferred each other over their current assignments. This approach guaranteed both stability and efficiency in finding a suitable assignment, making it a widely studied problem with real-world applications.
+Ultimately, the algorithm ensured that each hospital had filled its available positions, and no resident and hospital preferred 
+each other over their current assignments. This approach guaranteed both stability and efficiency in finding a suitable assignment, 
+making it a widely studied problem with real-world applications.
 
 
 Q-4 Summary 
 
-In this problem, I was  tasked with designing two search algorithms, Algorithm A and Algorithm B, for a sorted list of numbers with a size denoted as 'n'. After analyzing and comparing their time complexities, I reached the following conclusions:
+In this problem, I was  tasked with designing two search algorithms, Algorithm A and Algorithm B, for a sorted list of numbers with 
+a size denoted as 'n'. After analyzing and comparing their time complexities, I reached the following conclusions:
 
 1. Algorithmic Analysis:
    -> Algorithm A (Linear Search) had a time complexity of O(n), requiring a linear number of operations in the worst case.
-   -> Algorithm B (Binary Search) had a time complexity of O(log n), leveraging the sorted nature of the list to achieve a logarithmic time complexity.
+   -> Algorithm B (Binary Search) had a time complexity of O(log n), leveraging the sorted nature of the list to achieve a 
+   logarithmic time complexity.
 
 2. Efficiency Comparison:
    -> Algorithm B (Binary Search) emerged as the more efficient choice due to its slower-growing time complexity.
-   -> The reasoning behind this was that as 'n' increased, Algorithm B's performance advantage became more apparent, thanks to its logarithmic growth compared to Algorithm A's linear growth.
+   -> The reasoning behind this was that as 'n' increased, Algorithm B's performance advantage became more apparent, thanks to its 
+   logarithmic growth compared to Algorithm A's linear growth.
 
 3. Scaling Behavior:
 
@@ -54,26 +73,43 @@ In this problem, I was  tasked with designing two search algorithms, Algorithm A
    -> Algorithm A (Linear Search) required 1,000,000 operations, whereas Algorithm B (Binary Search) only needed about 20 operations.
    -> This exemplified how Algorithm B significantly outperformed Algorithm A as 'n' increased.
 
-In summary, Algorithm B (Binary Search) demonstrated superior efficiency, particularly for larger datasets, due to its logarithmic time complexity compared to Algorithm A's linear time complexity. This analysis showcased how algorithmic analysis and Big O notation were instrumental in understanding and comparing algorithm performance as it scaled with input size.
+In summary, Algorithm B (Binary Search) demonstrated superior efficiency, particularly for larger datasets, due to its logarithmic 
+time complexity compared to Algorithm A's linear time complexity. This analysis showcased how algorithmic analysis and Big O notation 
+were instrumental in understanding and comparing algorithm performance as it scaled with input size.
 
 Q-5 Summary
 
-In summary, the problem revolved around efficiently building a wall with a limited number of bricks per row. I provided a simple yet effective algorithm that calculated the minimum number of rows needed ('R') based on the total number of bricks ('n') and the maximum bricks per row ('c'). This algorithm was validated as correct and efficient for minimizing the number of rows required.
+In summary, the problem revolved around efficiently building a wall with a limited number of bricks per row. I provided a simple yet 
+effective algorithm that calculated the minimum number of rows needed ('R') based on the total number of bricks ('n') and the maximum 
+bricks per row ('c'). This algorithm was validated as correct and efficient for minimizing the number of rows required.
 
 Q-8 Summary
 
-In this problem i undersand that three football teams: Team A, Team B, and Team C. Each of these teams had three players, and all the players were assigned different ratings for the same positions on the field. Our task was to discover if there existed a set of strategies for these three teams, ensuring that no team could alter its strategy to gain an advantage over the other two teams. Essentially, we were on a quest to identify a stable set of strategies within the context of this three-team competitive scenario. It became clear that our goal was to find strategies for each team in such a way that they couldn't enhance their win rates by making strategic adjustments. The key takeaway was that, regardless of the strategy one team selected, another team always had the opportunity to find a superior one. This realization led us to conclude that there was no stable set of strategies for these three teams in this particular scenario. 
+In this problem i undersand that three football teams: Team A, Team B, and Team C. Each of these teams had three players, and all the 
+players were assigned different ratings for the same positions on the field. Our task was to discover if there existed a set of strategies 
+for these three teams, ensuring that no team could alter its strategy to gain an advantage over the other two teams. Essentially, we were 
+on a quest to identify a stable set of strategies within the context of this three-team competitive scenario. It became clear that our 
+goal was to find strategies for each team in such a way that they couldn't enhance their win rates by making strategic adjustments. 
+The key takeaway was that, regardless of the strategy one team selected, another team always had the opportunity to find a superior one. 
+This realization led us to conclude that there was no stable set of strategies for these three teams in this particular scenario. 
 
 Q-9 Summary
 
 This Question was extremly hard to understand I took help from chatGpt many times to understand this problem.
-In this problem, I learned about the application of the Gale-Shapley matching algorithm in the context of the NBA playoff format. Initially, I modified the algorithm to match Western Conference teams against Eastern Conference teams, considering their preference lists. Then, I explored the concept of stability by shuffling the preference lists multiple times and calculating the percentage of stable playoff matches.
+In this problem, I learned about the application of the Gale-Shapley matching algorithm in the context of the NBA playoff format. 
+Initially, I modified the algorithm to match Western Conference teams against Eastern Conference teams, considering their preference lists. 
+Then, I explored the concept of stability by shuffling the preference lists multiple times and calculating the percentage of stable 
+playoff matches.
 
-I also considered the elimination of teams after each round and how the Gale-Shapley algorithm can be repeatedly applied to create stable matches. It's important to ensure balanced eliminations between conferences to maintain stable lists.
+I also considered the elimination of teams after each round and how the Gale-Shapley algorithm can be repeatedly applied to create 
+stable matches. It's important to ensure balanced eliminations between conferences to maintain stable lists.
 
-However, I discovered that when combining the lists so that any team can be matched against any other irrespective of conference, the Gale-Shapley algorithm alone may not guarantee stable matches, resembling the stable roommate problem.
+However, I discovered that when combining the lists so that any team can be matched against any other irrespective of conference, 
+the Gale-Shapley algorithm alone may not guarantee stable matches, resembling the stable roommate problem.
 
-Lastly, I conducted experiments to measure the execution time of the algorithm with different list sizes, finding that the execution time quadrupled as the list size doubled due to the algorithm's time complexity. This problem provided valuable insights into matching algorithms and their practical applications in real-world scenarios.
+Lastly, I conducted experiments to measure the execution time of the algorithm with different list sizes, finding that the execution 
+time quadrupled as the list size doubled due to the algorithm's time complexity. This problem provided valuable insights into matching 
+algorithms and their practical applications in real-world scenarios.
 
 
 
