@@ -1,0 +1,3 @@
+Assignment 1:
+Summary:
+I went over all the Sample problems given in the document. Utilised ChatGPT to get more clear understanding of those problems and make a similar problem based on the sample problem while retaining the structure and essence of it. Then created solutions for the created problem utilising pseudo-code ande proof of correctness. Lastly I mentioned my learnings from the particular problem in the reflection section.
