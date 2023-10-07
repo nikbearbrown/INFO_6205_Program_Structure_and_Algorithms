@@ -24,10 +24,12 @@ Total : 112 points
 
 ## Topics covered:
 - Algorithmic Pseudocodes
-- Gale - Shapley Algorithm
-- Computational Complexity and Big O Notation
-- Graphs and Graph Traversals
+- Master Theorem
+- Kruskal's Algorithm
+- Dijkstra's Algorithm
 - BFS,DFS, Topological Sort, DAGs
+- Dynamic Programming
+- Greedy Algorithms
 
 ## Reflection
 
