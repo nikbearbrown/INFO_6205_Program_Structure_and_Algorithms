@@ -72,13 +72,11 @@ Worst case time complexity of Kruskal’s Algorithm is O(ElogV) or O(ElogE)
 **Masters Theorm**
 
 The Master Theorem applies to recurrences of the following form:
+
                   T (n) = aT(n/b) + f(n)
 where a ≥ 1 and b > 1 are constants and f(n) is an asymptotically positive function.
 There are 3 cases:
-1. If f(n) = O(n<sup>log<sub>b</sub><sup>a</sup>−&epsilon;</sup>) for some constant &epsilon; > 0, then               
-                        T (n) = Θ(n<sup>log<sub>b</sub><sup>a</sup></sup>).
-2. If f(n) = Θ(n<sup>log<sub>b</sub><sup>a</sup></sup>log<sup>k</sup>n) with k ≥ 0, then 
-                     T (n) = Θ(n<sup>log<sub>b</sub><sup>a</sup></sup>log<sup>k+1</sup>n).
-3. If f(n) = Ω(n<sup>log<sub>b</sub><sup>a</sup>+&epsilon;</sup>) with &epsilon; > 0, and f(n) satisfies the regularity condition, then 
-                       T (n) = Θ(f(n)).
+1. If f(n) = O(n<sup>log<sub>b</sub><sup>a−&epsilon;</sup></sup>) for some constant &epsilon; > 0, then T (n) = Θ(n<sup>log<sub>b</sub><sup>a</sup></sup>).
+2. If f(n) = Θ(n<sup>log<sub>b</sub><sup>a</sup></sup>log<sup>k</sup>n) with k ≥ 0, then T (n) = Θ(n<sup>log<sub>b</sub><sup>a</sup></sup>log<sup>k+1</sup>n).
+3. If f(n) = Ω(n<sup>log<sub>b</sub><sup>a+&epsilon;</sup></sup>) with &epsilon; > 0, and f(n) satisfies the regularity condition, then T (n) = Θ(f(n)).
 Regularity condition: af(n/b) ≤ cf(n) for some constant c < 1 and all sufficiently large n.
