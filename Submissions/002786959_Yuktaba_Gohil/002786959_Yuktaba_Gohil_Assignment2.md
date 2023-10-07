@@ -75,7 +75,7 @@ The Master Theorem applies to recurrences of the following form:
                   T (n) = aT(n/b) + f(n)
 where a ≥ 1 and b > 1 are constants and f(n) is an asymptotically positive function.
 There are 3 cases:
-1. If f(n) = O(n<sup>log<sub>b</sub><sup>a</sup>−&epsilon</sup>;) for some constant &epsilon; > 0, then               
+1. If f(n) = O(n<sup>log<sub>b</sub><sup>a</sup>−&epsilon;</sup>) for some constant &epsilon; > 0, then               
                         T (n) = Θ(n<sup>log<sub>b</sub><sup>a</sup></sup>).
 2. If f(n) = Θ(n<sup>log<sub>b</sub><sup>a</sup></sup>log<sup>k</sup>n) with k ≥ 0, then 
                      T (n) = Θ(n<sup>log<sub>b</sub><sup>a</sup></sup>log<sup>k+1</sup>n).
