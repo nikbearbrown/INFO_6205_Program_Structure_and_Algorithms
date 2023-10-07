@@ -1,0 +1,15 @@
+NUID: 002734572
+
+Firstname: Douhao
+
+LastName: Ma
+
+
+
+Assignment1 Reflection：
+
+1. I used ChatGPT to read, to deepen my understanding of the problem, I tried to get it to tell me what the field of the problem was, what the nature of the problem was, and then after figuring it out, I went on to ask him if there were any other similar questions, and then I read and understood deeply, and then created my own questions and answered them. I also tried to use chatGPT to answer my questions. Interestingly, I found that chatGPT always gave me different answers, but I ultimately chose to stick with my answers.
+
+2. I encountered many problems and challenges in this process. First, I often couldn't understand the meaning of the questions, for example, I didn't know what Omega and theta meant except for big O. It took me a long time to use chatGPT to figure out what the questions were asking. Then I found it difficult to ask similar questions, and I didn't know much about these kinds of questions. Finally, another difficulty is that when I use chatGPT to answer my questions, it sometimes gives different answers from me, which I think is wrong, such as the first question of time complexity ranking.
+
+3. The first thing I've learned is clarity, and questions that aren't clear can be difficult to understand. Then there is the skill of breaking down complex problems into simpler, more manageable sub-problems. Then, you need to add some constraints to the design process to make the problem more rigorous. Then, for algorithmic problems, we should be good at understanding the essence, so that we can solve this kind of problem. Finally, the algorithm problem must analyze the complexity of the algorithm, which is the core of the algorithm in my opinion.
