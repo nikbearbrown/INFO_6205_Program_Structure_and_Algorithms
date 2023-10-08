@@ -4,8 +4,25 @@ NU_ID     : 002774775
 
 Assignment-2 "Summary of Assignment 2"
 
+Question - 1
 
+Challenge Faced:
 
+I had to ensure that the new problem also involves finding a shortest path in a graph but with a different 
+context (directed graphs instead of undirected, and specific source and destination vertices).
+
+Defining input and output formats: Carefully defining the input and output formats to ensure that the problem
+is clear and can be easily understood.
+
+Learning:
+
+Creating a new algorithmic problem based on the example problem was a valuable exercise in problem design. 
+It required me to think about how to modify the problem while retaining its core concept. It also reinforced 
+my understanding of algorithms like Dijkstra's algorithm and the importance of defining clear inputs, outputs, 
+and constraints.
+
+I learned that problem design involves creativity and attention to detail. ChatGPT assisted by 
+providing guidance.
 
 
 
