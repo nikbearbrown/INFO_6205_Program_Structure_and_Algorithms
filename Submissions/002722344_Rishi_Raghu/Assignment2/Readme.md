@@ -40,6 +40,7 @@ Total : 112 points
 **Resources and refernces I used for this assignment:**
 
 - Stanford Algorithms lectures and assignments
+- MIT Algorithms lectures and assignments
 - University of San Francisco Algorithms lectures and assignments( https://www.cs.usfca.edu/~galles/visualization/)
 
 ### How I used the AI tools:
@@ -55,11 +56,10 @@ Discussed what factors could be added to the problem statements to make them cha
 **- Working on Solutions:** 
 
 - Took help from chat-GPT and Bard to solve the rudimentary tasks of the solution and focused on discussing how modifications could be made to arrive to final solution.
-- Additionally after forming the answers together, brainstormed on potential caveats in the solutionand worked upon those to refine it and arrive at efficient solutions, which handle edge case and scenarios I might have missed
 - Re-fed the solutions with problem statements to Chat-GPT and Bard to test correctness of the solution and make iteration upon the code/answer.
 - Used the AI tools to discuss the correctness of the solution and arrive at derivations and proofs for the same.
 
-**Formating the solutions:**
+**- Formating the solutions:**
 - Took help from chat-GPT and Bard to format the solutions in a readable format.(especially LaTex and Markdown)
 
 **- Challenges:**
