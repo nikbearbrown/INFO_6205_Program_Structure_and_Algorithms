@@ -80,3 +80,22 @@ There are 3 cases:
 2. If f(n) = Θ(n<sup>log<sub>b</sub><sup>a</sup></sup>log<sup>k</sup>n) with k ≥ 0, then T (n) = Θ(n<sup>log<sub>b</sub><sup>a</sup></sup>log<sup>k+1</sup>n).
 3. If f(n) = Ω(n<sup>log<sub>b</sub><sup>a+&epsilon;</sup></sup>) with &epsilon; > 0, and f(n) satisfies the regularity condition, then T (n) = Θ(f(n)).
 Regularity condition: af(n/b) ≤ cf(n) for some constant c < 1 and all sufficiently large n.
+
+**Prim’s Algorithm Implementation**
+ 
+The implementation of Prim’s Algorithm is explained in the following steps-
+
+ Step-01:
+ 
++ Randomly choose any vertex.
++ The vertex connecting to the edge having least weight is usually selected.
+ 
+Step-02:
+ 
++ Find all the edges that connect the tree to new vertices.
++ Find the least weight edge among those edges and include it in the existing tree.
++ If including that edge creates a cycle, then reject that edge and look for the next least weight edge.
+
+Step-03:
+ 
++ Keep repeating step-02 until all the vertices are included and Minimum Spanning Tree (MST) is obtained.
