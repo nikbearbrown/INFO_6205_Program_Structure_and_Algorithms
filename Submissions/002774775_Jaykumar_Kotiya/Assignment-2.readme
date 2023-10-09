@@ -64,7 +64,18 @@ statements, input/output specifications, and constraints. Additionally, proving 
 algorithm through mathematical induction was a valuable learning experience in itself. ChatGPT's assistance 
 was instrumental in structuring and formulating the problem, making the process smoother and more organized.
 
+Question - 5
 
+Explanation of ChatGPT's Assistance and Challenges Faced:
+
+ChatGPT was instrumental in helping me design a new problem based on the provided example. The biggest 
+challenge was ensuring that the new problem maintained the spirit of the example while introducing a fresh twist. In this 
+case, I decided to adapt the concept of subsequences into a problem involving integer sequences, making it 
+a relevant and interesting problem in the realm of algorithms.
+
+I learned how to abstract a real-world problem, like detecting subsequences in time-series data, into a 
+more general algorithmic problem. This skill is essential for transforming practical challenges into 
+algorithmic ones.
 
 
 
