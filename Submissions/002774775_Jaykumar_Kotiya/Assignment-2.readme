@@ -45,9 +45,24 @@ Question - 3
 -> This question emphasized the importance of finding efficient algorithms for real-world problems and thinking 
    about the asymptotic analysis of these algorithms.
 
+Question - 4
 
+Explanation of ChatGPT Assistance:
+ChatGPT assisted in creating the new problem for the problem statement, input and output format, sample 
+inputs and outputs, and constraints. It also provided a starting point for the solution and explained 
+how to prove its correctness.
 
+Challenges Faced:
+Ensuring the problem maintains the spirit of the example while being different enough to provide a new challenge.
+Designing an algorithm that is both efficient and correct for counting nodes with two children and leaves.
+Formulating a clear and concise proof of correctness based on mathematical induction.
 
+Learning About New Problem:
+This task allowed me to learn about designing algorithmic problems based on existing examples, maintaining 
+the core concept while introducing variations. It also reinforced the importance of providing clear problem 
+statements, input/output specifications, and constraints. Additionally, proving the correctness of the 
+algorithm through mathematical induction was a valuable learning experience in itself. ChatGPT's assistance 
+was instrumental in structuring and formulating the problem, making the process smoother and more organized.
 
 
 
