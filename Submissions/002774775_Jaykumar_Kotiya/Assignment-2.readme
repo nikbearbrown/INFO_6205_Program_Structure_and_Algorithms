@@ -116,9 +116,17 @@ problem statements, inputs, and outputs, and how to adapt and modify algorithms 
 I also reinforced my understanding of graph algorithms, such as Dijkstra's algorithm, and their applications 
 in solving real-world problems.
 
+Question - 9
+
+ChatGPT provided guidance in formulating the new problem based on the example problem.Through this task, 
+I learned how to create a new problem inspired by an example problem, define problem parameters, and design 
+an algorithm to solve it. I also gained a deeper understanding of graph algorithms, especially BFS, and their
+practical applications in solving real-world problems, such as finding the shortest route to charging stations 
+for electric vehicles.
+
+Question - 10
+
 
 
 Resourses links:
-https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/functions-in-asymptotic-notation
-https://en.wikipedia.org/wiki/Big_O_notation
 tool used : chatGpt used to get answers and creating examples outof the given examples.
