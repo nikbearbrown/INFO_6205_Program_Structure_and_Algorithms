@@ -91,6 +91,18 @@ This problem provides a different perspective on topological sorting by applying
 course scheduling. It emphasizes the importance of graph theory and algorithm design in solving real-world 
 problems efficiently.
 
+Question - 7
+
+The main challenge I faced was maintaining the spirit of the example problem while making it distinct and 
+interesting. I had to ensure that the problem was clear and solvable, making it a valuable exercise for 
+understanding Prim's algorithm.
+
+Through this task, I learned the importance of problem formulation, how to structure a problem statement, 
+and how to provide clear inputs, outputs, and constraints. I also gained a deeper understanding of Prim's 
+algorithm and its correctness, reinforcing my knowledge of graph theory and algorithms.
+
+Question - 8
+
 Resourses links:
 https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/functions-in-asymptotic-notation
 https://en.wikipedia.org/wiki/Big_O_notation
