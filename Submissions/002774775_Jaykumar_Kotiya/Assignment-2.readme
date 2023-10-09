@@ -126,7 +126,10 @@ for electric vehicles.
 
 Question - 10
 
-
+ChatGPT assisted in structuring the problem statement, input/output format, and constraints. 
+Through this task, I learned how to analyze and apply Kruskal's algorithm to find the minimum 
+spanning tree in a weighted graph. I also gained experience in defining problem parameters and
+constraints and ensuring the correctness of the algorithm.
 
 Resourses links:
 tool used : chatGpt used to get answers and creating examples outof the given examples.
