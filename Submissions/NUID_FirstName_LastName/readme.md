@@ -1,6 +1,6 @@
-First Name: "Your First Name"
-Last Name : "Your Last Name"
-NU_ID : "Your NU_ID"
+First Name: "Teng"
+Last Name : "Sun"
+NU_ID : "002700370"
 
 Assignment-1 : "Summary of assignment 1" 
 
