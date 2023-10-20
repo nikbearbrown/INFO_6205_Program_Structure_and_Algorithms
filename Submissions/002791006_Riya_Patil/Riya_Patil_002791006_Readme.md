@@ -17,8 +17,20 @@ This assignment encompasses a wide array of fundamental concepts in algorithmic 
 4. **Data Representation and Simulation:**
    - Through practical exercises, students learned how to represent complex scenarios using data structures. By simulating interactions between entities, they gained hands-on experience in modeling real-world situations. This included creating classes to represent entities, implementing matching algorithms, and evaluating outcomes.
 
-### Assignment Goal:
+## Assignment 2: Advanced Algorithmic Problem Solving  
+This assignment touches on a variety of algorithmic problems and their solutions, ranging from graph theory to dynamic programming.
 
+### Contents  
+- Minimum Spanning Tree Using Kruskal's Algorithm
+- DAG and Topological Sorting
+- Master Theorem
+- Job Scheduling
+- Knapsack Problem
+- Time-series Data Mining
+- Binary Trees
+- Metro Network Optimization
+
+### Assignment Goal:  
 The primary objective of this assignment was to provide with a comprehensive understanding of algorithmic principles and their practical applications. By tackling a diverse set of problems, problem-solving skills were enhanced, a systematic approach to algorithm design was developed, and learned how to apply theoretical knowledge to solve real-world challenges.
 Additionally, the assignment aimed to foster critical thinking and logical reasoning, preparing to tackle complex computational problems.
 
