@@ -1,7 +1,7 @@
 In the process of completing this assignment, I learnt several key concepts related to which I would like to mention here. Through various tasks and questions, I gained 
 a deeper understanding of the following topics:
 
-**Bellman-Ford's Algorithm:**
+**<u>Bellman-Ford's Algorithm:</u>**
 
 + Bellman-Ford is a single source shortest path algorithm that determines the shortest path between a given source vertex and every other vertex in a graph. This algorithm can be used on both weighted and unweighted graphs.
 + Although Bellman-Ford is slower than Dijkstra’s algorithm, it is capable of handling graphs with negative edge weights, which makes it more versatile.
