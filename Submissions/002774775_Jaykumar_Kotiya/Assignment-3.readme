@@ -54,4 +54,11 @@ algorithm. Challenges included maintaining the spirit of the example problem whi
 complexity by introducing a flow network and deletion of edges. This task enhanced problem design skills 
 and deepened understanding of algorithmic problem-solving.
 
+Question - 7
+
+This task involved formulating a problem inspired by the provided example while maintaining the essence of 
+resource allocation and constraints. ChatGPT assisted in structuring the problem statement, input/output 
+format, and the design of a dynamic programming solution. Challenges included ensuring that the problem was 
+well-defined and that the recurrence relation correctly captured the problem's constraints and objectives. 
+This task provided a valuable experience in problem design and dynamic programming.
 
