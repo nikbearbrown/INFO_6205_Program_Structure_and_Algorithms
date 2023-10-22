@@ -6,7 +6,7 @@ First Name: Jaykumar Govind
 Last Name : Kotiya
 NU_ID     : 002774775
 
-Assignment-3 "Summary of Assignment 2"
+Assignment-3 "Summary of Assignment 3"
 
 Question - 1
 
@@ -75,3 +75,10 @@ ChatGPT's assistance in problem structuring and the definition of input and outp
 Challenges included ensuring that the intervals were correctly sorted and that the dynamic programming 
 approach effectively found the optimal selection of non-overlapping intervals. This task enhanced problem 
 design skills and deepened understanding of dynamic programming techniques in algorithmic problem-solving.
+
+Question - 10
+
+ ChatGPT's assistance in problem structuring and the definition of input and output formats was instrumental. 
+ Challenges included ensuring that the dynamic programming approach effectively found the optimal selection 
+ of items while adhering to the weight limit. This task deepened students' understanding of dynamic programming 
+ techniques in algorithmic problem-solving.
