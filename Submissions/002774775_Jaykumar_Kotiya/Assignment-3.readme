@@ -62,3 +62,9 @@ format, and the design of a dynamic programming solution. Challenges included en
 well-defined and that the recurrence relation correctly captured the problem's constraints and objectives. 
 This task provided a valuable experience in problem design and dynamic programming.
 
+Question - 8
+
+ChatGPT's assistance in structuring the problem and providing sample inputs helped in presenting a clear 
+and relevant problem related to algorithm analysis. Challenges included ensuring that the recurrence 
+relations represented realistic algorithmic scenarios and accurately applying the Master Theorem's cases to 
+them. This task deepened students' understanding of algorithm analysis and recurrence relation classification.
