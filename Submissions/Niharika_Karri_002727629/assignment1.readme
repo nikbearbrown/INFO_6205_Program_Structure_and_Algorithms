@@ -1,0 +1,32 @@
+SUMMARY
+
+In this assignment, I explored various concepts related to the Gale-Shapley algorithm and stable matching in different scenarios. Here is a summary of the key points covered 
+
+1. Stable Matching in Worker Teams:
+   - Stable matching refers to a scenario where workers are assigned to teams, and the assignments are such that no worker and team would prefer to be matched with each other over their current assignments, and there are no unstable pairs.
+   - Key criteria for stability include the absence of blocking pairs and stability for all workers and teams.
+   - An example illustrated the concept with preferences between workers and teams.
+
+2. Gale-Shapley Algorithm for Student-Project Matching:
+   - We implemented the Gale-Shapley algorithm to find stable matching between students and projects based on their preferences.
+   - The Python function `find_stable_matching` takes lists of student and project preferences and returns the matching.
+   - An example demonstrated the algorithm's usage.
+
+3. Big O Notation and Algorithm Efficiency:
+   - We discussed how to determine whether one function is in O(g(n)) compared to another and found the crossover point.
+   - An example compared O(n²) and O(2^n) time complexities to show which algorithm is asymptotically faster.
+
+4.Finding the Second-Largest Integer:
+   - We provided an efficient algorithm to find the second-largest integer in a list and analyzed its time complexity.
+
+5.Stable Roommates Problem:
+   - We implemented the Gale-Shapley algorithm to solve the stable roommates problem.
+   - The Python function `stable_roommates` finds stable matchings among individuals with preferences.
+
+6. Clothing Industry Matching:
+   - We applied the Gale-Shapley algorithm to match clothing designers with clothing brands in a stable manner.
+   - The Python function `find_stable_matching` takes preferences of designers and brands and returns the matching.
+
+7. Deferred Acceptance Property:
+   - I picked the concept that the existence of a pair where one is ranked first in the preference list of the other guarantees their assignment in any stable matching.
+
