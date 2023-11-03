@@ -22,9 +22,14 @@ In this problem set, various core computer science algorithms related to graph t
 
 8.Translated with www.DeepL.com/Translator (free version)
 
+- Assignment3_FEICAO
+Here are some algorithmic topics and solutions。
+
 ## Project structure
+- Assignment3_FEICAO 
 - Assignment2_FEICAO  
 - Assignment1_FEICAO 
+
 ## Contributor & Maintainer
 name: FEICAO 
 Email: cao.f@northeastern.edu  
