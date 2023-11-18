@@ -14,6 +14,12 @@ In the process of completing this assignment, I learnt several key concepts rela
 
  **Vertex-Disjoint Cycle-Cover Problem:**
  + The vertex-disjoint cycle-cover problem is a generalization of the Hamiltonian path and cycle problems. In this problem, the goal is to find a set of cycles in a graph that cover all vertices of the graph, such that no two cycles share any vertices.
- + 
 
+**Directed Hamiltonian Cycle Problem:**
++ The Directed Hamiltonian Cycle Problem is the problem of determining whether a given directed graph has a Hamiltonian cycle.
 
+**Directed Disjoint Cycles Problem:**
++ The Directed Disjoint Cycles Problem involves determining whether there exist k disjoint cycles in a directed graph such that each cycle contains one of k given nodes.
+
+**NP-hardness:**
++ A problem is said to be NP-hard if any problem in NP can be reduced to it in polynomial time.
