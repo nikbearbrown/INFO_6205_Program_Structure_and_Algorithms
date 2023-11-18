@@ -12,24 +12,25 @@ Each question is divided into 3 sections:
 
 ## Question Distribution:
 
-1. 6 parts : 12 points (2 points each)
-2. 10 points
-3. 3 parts : 15 points (2.5 points, 2.5 points, 10 points)
-4. 2 parts : 15 points (10 points, 5 points)
-5. 4 parts : 20 points (10 points, 5 points, 2.5 points, 2.5 points)
-6. 6 parts : 12 points (2 points each)
-7. 5 parts : 10 points (2 points each)
-8. 4 parts : 20 points (5 points each)
+1. 10 points
+2. 2 parts : 20 points (10 points, 10 points)
+3. 3 parts : 20 points (10 points, 5 points, 5 points)
+4. 3 parts : 30 points (10 points, 10 points, 10 points)
+5. 2 parts : 20 points (10 points, 10 points)
+6. 2 parts : 20 points (10 points, 10 points)
 
-Total : 114 points
+Total : 120 points
 
 ## Topics covered:
-- Algorithmic Pseudocodes
 - Network Flow
     - Ford Fulkerson
-    - Push Relabel
-- Bellman Ford
-- Dynamic Programming
+- NP Completeness
+    - Reductions
+    - NP Hard
+    - NP Complete
+- Scheduling
+- Dynamic Resource Allocation
+- Graph partitioning
 
 ## Reflection
 
@@ -39,10 +40,7 @@ Total : 114 points
 
 **Resources and refernces I used for this assignment:**
 
-- Stanford Algorithms lectures and assignments
-- VisuAlgo.net/en
-- University of San Francisco Algorithms lectures and assignments( https://www.cs.usfca.edu/~galles/visualization/)
-- For definitions and use cases: Wikipedia​​, SaturnCloud​​, ScienceDirect,​Simplilearn​, Coding Ninjas​​, Programiz​​, and GeeksforGeeks​​.
+- MIT NP Algorithms lectures and assignments
 
 ### How I used the AI tools:
 
