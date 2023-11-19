@@ -34,6 +34,21 @@ This assignment touches on a variety of algorithmic problems and their solutions
 The primary objective of this assignment was to provide with a comprehensive understanding of algorithmic principles and their practical applications. By tackling a diverse set of problems, problem-solving skills were enhanced, a systematic approach to algorithm design was developed, and learned how to apply theoretical knowledge to solve real-world challenges.
 Additionally, the assignment aimed to foster critical thinking and logical reasoning, preparing to tackle complex computational problems.
 
+## Assignment 3: Algorithm Question Design with Chatgpt  
+This assignment delves deep into intricate algorithmic challenges, exploring solutions that span from graph algorithms to dynamic programming.  
+
+### Contents  
+- Maximum Flow in Networks Using Ford-Fulkerson and Push-relabel
+- Interval Scheduling and Maximization
+- Divide-and-Conquer for Maximum Subarray and Subarray Sums
+- Dynamic Programming for Knapsack Variations
+- Analyzing Recurrences with the Master Theorem
+- Algorithmic Problem Design and Visualization  
+
+### Assignment Goal:  
+This assignment's primary objective was to deepen the understanding of advanced algorithmic techniques and showcase their vast applications in tackling multifaceted problems. By navigating through a wide array of challenges, hands-on problem-solving skills were sharpened, a deeper appreciation for algorithm intricacies was cultivated, and the bridge between theoretical constructs and practical solutions was strengthened.  
+Furthermore, this assignment aimed to stimulate out-of-the-box thinking, emphasizing the importance of a systematic approach and fostering the ability to design, visualize, and implement solutions for complex algorithmic challenges.
+
 ### References
 - For creating graphs : https://www.desmos.com/calculator
 - For understanding and creating problems : https://www.inf.ufpr.br/andre/textos-CI1238-INFO7056/Algorithm%20Design%20-%20Jon%20Kleinberg%2C%20%C3%89va%20Tardos.pdf
