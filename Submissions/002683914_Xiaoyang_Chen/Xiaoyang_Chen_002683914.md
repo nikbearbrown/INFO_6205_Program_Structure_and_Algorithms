@@ -4,3 +4,8 @@ When I utilize ChatGPT, it typically delivers insightful answers. However, there
 
 10/8/2023  Assiggnment 2
 All questions relate to topics we covered from the first assignment to last Wednesday. I did some problems on graph theory in my first assignment. This time I decided to practice more on terminology and coding issues. I enlisted the help of ChatGPT and other AI tools to solve the entry-level tasks of the solution, and then focused on how to modify them to arrive at advanced problems and solutions. Feedback solutions and problem statements to ChatGPT and other tools to test solutions for correctness and iterate on code/answers. To some extent, chatgpt is a more flexible leetcode.I also took help from chat-GPT and Bard to format the solutions in a readable format.(especially LaTex and Markdown)
+
+10/22/2023  Assiggnment 3
+This assignment is mainly designed to focus on the knowledge points in worked assignment 3.
+Each question in the homework is given a detailed answer and idea analysis. Most of the answers include code or pseudo-code to better explain its principles.
+The Reflections, References, and License involved in this assignment are included in the file Assignment3.ipynb
