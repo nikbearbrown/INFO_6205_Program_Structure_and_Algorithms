@@ -1,0 +1,11 @@
+9/25/2023  Assiggnment 1
+When I utilize ChatGPT, it typically delivers insightful answers. However, there are moments when it stumbles over fundamental concepts, and at times, it can misconstrue descriptions leading to inaccurate conclusions. Expecting it to provide flawless answers on the first attempt might be unrealistic; often, multiple corrections are needed to fine-tune the response. I've also observed that while ChatGPT's coding abilities are commendable for simpler tasks, it tends to falter with intricate algorithms, especially when not provided with a template or reference. Therefore, it's crucial to critically assess ChatGPT's feedback and maintain an independent line of reasoning. Through this exercise, my understanding of algorithmic analysis and data structures has deepened. Moreover, I've pondered over various scenarios of stable matching and discerned how the algorithm adapts across different contexts.
+
+
+10/8/2023  Assiggnment 2
+All questions relate to topics we covered from the first assignment to last Wednesday. I did some problems on graph theory in my first assignment. This time I decided to practice more on terminology and coding issues. I enlisted the help of ChatGPT and other AI tools to solve the entry-level tasks of the solution, and then focused on how to modify them to arrive at advanced problems and solutions. Feedback solutions and problem statements to ChatGPT and other tools to test solutions for correctness and iterate on code/answers. To some extent, chatgpt is a more flexible leetcode.I also took help from chat-GPT and Bard to format the solutions in a readable format.(especially LaTex and Markdown)
+
+10/22/2023  Assiggnment 3
+This assignment is mainly designed to focus on the knowledge points in worked assignment 3.
+Each question in the homework is given a detailed answer and idea analysis. Most of the answers include code or pseudo-code to better explain its principles.
+The Reflections, References, and License involved in this assignment are included in the file Assignment3.ipynb

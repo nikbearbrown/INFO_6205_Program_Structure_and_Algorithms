@@ -1,0 +1,135 @@
+First Name: Jaykumar Govind
+Last Name : Kotiya
+NU_ID     : 002774775
+
+Assignment-2 "Summary of Assignment 2"
+
+Question - 1
+
+Challenge Faced:
+
+I had to ensure that the new problem also involves finding a shortest path in a graph but with a different 
+context (directed graphs instead of undirected, and specific source and destination vertices).
+
+Defining input and output formats: Carefully defining the input and output formats to ensure that the problem
+is clear and can be easily understood.
+
+Learning:
+
+Creating a new algorithmic problem based on the example problem was a valuable exercise in problem design. 
+It required me to think about how to modify the problem while retaining its core concept. It also reinforced 
+my understanding of algorithms like Dijkstra's algorithm and the importance of defining clear inputs, outputs, 
+and constraints.
+
+I learned that problem design involves creativity and attention to detail. ChatGPT assisted by 
+providing guidance.
+
+
+Question - 2
+
+Creating a new algorithmic problem based on the provided example problem was a creative process. I had to 
+think about how to modify the problem while maintaining the spirit of analyzing recurrence relations.
+Ensuring that the problem was well-defined and had clear input, output, and constraints was crucial to make 
+it solvable. ChatGPT assisted by helping me structure the problem statement, providing sample inputs and outputs, and 
+suggesting possible constraints.
+The challenge was to come up with diverse recurrence relations that could be classified into different cases. 
+It required a good understanding of the Master Theorem and its applications.
+The experience taught me about problem design in the realm of algorithms and the importance of providing clear 
+and unambiguous problem statements.
+
+
+Question - 3
+
+-> The challenge was maintaining the spirit of encoding folk songs while abstracting it into an algorithmic 
+   problem.
+-> This question emphasized the importance of finding efficient algorithms for real-world problems and thinking 
+   about the asymptotic analysis of these algorithms.
+
+Question - 4
+
+Explanation of ChatGPT Assistance:
+ChatGPT assisted in creating the new problem for the problem statement, input and output format, sample 
+inputs and outputs, and constraints. It also provided a starting point for the solution and explained 
+how to prove its correctness.
+
+Challenges Faced:
+Ensuring the problem maintains the spirit of the example while being different enough to provide a new challenge.
+Designing an algorithm that is both efficient and correct for counting nodes with two children and leaves.
+Formulating a clear and concise proof of correctness based on mathematical induction.
+
+Learning About New Problem:
+This task allowed me to learn about designing algorithmic problems based on existing examples, maintaining 
+the core concept while introducing variations. It also reinforced the importance of providing clear problem 
+statements, input/output specifications, and constraints. Additionally, proving the correctness of the 
+algorithm through mathematical induction was a valuable learning experience in itself. ChatGPT's assistance 
+was instrumental in structuring and formulating the problem, making the process smoother and more organized.
+
+Question - 5
+
+Explanation of ChatGPT's Assistance and Challenges Faced:
+
+ChatGPT was instrumental in helping me design a new problem based on the provided example. The biggest 
+challenge was ensuring that the new problem maintained the spirit of the example while introducing a fresh twist. In this 
+case, I decided to adapt the concept of subsequences into a problem involving integer sequences, making it 
+a relevant and interesting problem in the realm of algorithms.
+
+I learned how to abstract a real-world problem, like detecting subsequences in time-series data, into a 
+more general algorithmic problem. This skill is essential for transforming practical challenges into 
+algorithmic ones.
+
+Question - 6
+
+In this problem related to topological sorting of a directed acyclic graph (DAG): While understanding about
+Running Time Analysis i understood the below:
+
+- Initializing in_degree takes O(N) time.
+- Computing the adjacency-list representation takes O(N) time.
+- The loop processes each course and its prerequisites once, taking O(N) time.
+- Total running time is O(N).
+
+This problem provides a different perspective on topological sorting by applying it to a practical scenario, 
+course scheduling. It emphasizes the importance of graph theory and algorithm design in solving real-world 
+problems efficiently.
+
+Question - 7
+
+The main challenge I faced was maintaining the spirit of the example problem while making it distinct and 
+interesting. I had to ensure that the problem was clear and solvable, making it a valuable exercise for 
+understanding Prim's algorithm.
+
+Through this task, I learned the importance of problem formulation, how to structure a problem statement, 
+and how to provide clear inputs, outputs, and constraints. I also gained a deeper understanding of Prim's 
+algorithm and its correctness, reinforcing my knowledge of graph theory and algorithms.
+
+Question - 8
+
+ChatGPT Assistance and Challenges:
+
+ChatGPT assisted in formulating the new problem by taking inspiration from the provided example problem. 
+It helped in defining the problem statement, input and output format, and sample inputs and outputs. 
+Challenges included ensuring that the new problem maintained the spirit of the example while adapting 
+it to a different context.
+
+What I Learned:
+Through this task, I learned how to formulate a new problem based on an example problem, how to define 
+problem statements, inputs, and outputs, and how to adapt and modify algorithms to solve different problems. 
+I also reinforced my understanding of graph algorithms, such as Dijkstra's algorithm, and their applications 
+in solving real-world problems.
+
+Question - 9
+
+ChatGPT provided guidance in formulating the new problem based on the example problem.Through this task, 
+I learned how to create a new problem inspired by an example problem, define problem parameters, and design 
+an algorithm to solve it. I also gained a deeper understanding of graph algorithms, especially BFS, and their
+practical applications in solving real-world problems, such as finding the shortest route to charging stations 
+for electric vehicles.
+
+Question - 10
+
+ChatGPT assisted in structuring the problem statement, input/output format, and constraints. 
+Through this task, I learned how to analyze and apply Kruskal's algorithm to find the minimum 
+spanning tree in a weighted graph. I also gained experience in defining problem parameters and
+constraints and ensuring the correctness of the algorithm.
+
+Resourses links:
+tool used : chatGpt used to get answers and creating examples outof the given examples.
