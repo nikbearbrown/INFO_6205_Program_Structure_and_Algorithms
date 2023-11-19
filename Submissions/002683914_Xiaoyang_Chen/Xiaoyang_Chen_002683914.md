@@ -9,3 +9,6 @@ All questions relate to topics we covered from the first assignment to last Wedn
 This assignment is mainly designed to focus on the knowledge points in worked assignment 3.
 Each question in the homework is given a detailed answer and idea analysis. Most of the answers include code or pseudo-code to better explain its principles.
 The Reflections, References, and License involved in this assignment are included in the file Assignment3.ipynb
+
+11/18/2023  Assiggnment 4
+Today, we explored several challenging computational problems, focusing on translating real-world scenarios into network flow or NP-complete problems. Starting from a Zoo Tycoon-inspired animal feeding challenge, we designed a similar problem for a botanical garden's fertilizer allocation, applying network flow algorithms for solutions. We also delved into problems akin to Set Partition and Subset Sum, highlighting their categorization as NP-complete and the need for efficient verification of potential solutions. These exercises deepened our understanding of network flows and NP-completeness, demonstrating the translation of practical issues into algorithmically solvable forms.
