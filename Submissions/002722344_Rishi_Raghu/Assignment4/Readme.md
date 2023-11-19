@@ -50,25 +50,28 @@ Used ChatGPT and Bard to discuss real world applications where problem statement
 
 **- Adding uniqueness and complexity:**
 
-Consulted with ChatGPT to infuse complexity and nuance into the problem statements, ensuring they were not only challenging but also pertinent to the coursework discussed in class.
+Consulted with ChatGPT to add complexity and nuance to the problem statements, ensuring that they were not just difficult but also relevant to the material addressed in class.
 
 **- Working on Solutions:** 
 
-- Took help from chat-GPT and Bard to solve the rudimentary tasks of the solution and focused on discussing how modifications could be made to arrive to final solution.
-- Employed a feedback loop, where solutions were reviewed for correctness by re-inputting them into ChatGPT for validation and subsequent improvement.
-- Discussed the validity and robustness of the solutions with ChatGPT, particularly focusing on proof of correctness and justifications.
+- Discussed the solutions' validity and robustness via ChatGPT, emphasizing on proof of correctness and proper justifiation.
+- Employed the help of chat-GPT and Bard to complete the primitive tasks of the solution and focused on discussing how changes could be made to arrive at the final solution.
+- Used a feedback loop in which solutions were checked for accuracy by re-entering them into ChatGPT for additional checks and further improvement.
 
 **- Formatting and Presentation:**
 - Took help from chat-GPT and Bard to format the solutions in a readable format.(especially LaTex and Markdown)
 
 **- Challenges Faced:**
 
-- One significant challenge was aligning the complexity of the problem statements with the academic scope of the course.
-- Striking a balance between making problems challenging yet solvable within reasonable time constraints.
-- Ensuring real-world applicability of the problems without drifting away from academic objectives.
+- Finding an optimal balance between making tasks difficult yet solvable within appropriate time restrictions. 
+- One key obstacle was matching the intricacy of the problem statements to the course's academic focus.
+- Ensuring real-world application of challenges while remaining focused on academic goals.
+- Integrating ideas from many disciplines into a single topic while staying within the academic boundaries of a course can be difficult. 
 
 **- Learnings:**
 
-- Realized the importance of iteratively refining problems to align them with educational outcomes.
-- Learned that starting with a basic question and progressively adding complexity produces more meaningful and pedagogically valuable problems.
-- Gained insights into the nuances of problem creation, understanding that a well-crafted problem tests not just theoretical knowledge but also problem-solving skills and critical thinking.
+- I discovered that starting with a simple inquiry and gradually adding complexity results in more relevant and pedagogically valuable problems.
+- While the correct answer is vital, concentrating on the problem-solving process might be more educational.
+- By constantly refining and adjusting problems, you can ensure that they are directly related to the desired outcomes, such as comprehending specific concepts or developing specific skills.
+- I learned about the subtleties of problem development and how a well-crafted challenge evaluates not only theoretical knowledge but also problem-solving skills and critical thinking.
+- By incorporating real-world scenarios into issues, students can gain a better understanding of how theoretical principles can be utilized to solve real-world difficulties.
