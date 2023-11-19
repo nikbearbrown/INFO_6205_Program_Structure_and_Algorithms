@@ -1,0 +1,16 @@
+Assignment 3:
+
+Topics covered are:
+Bellman-Ford algorithm
+Ford-Fulkerson algorithm
+Preflow-Push (Push–relabel) maximum flow algorithm
+Master theorem
+Dynamic programming
+knapsack using dynmaic programming
+
+I explored various algorithmic problems and discussed strategies to solve them, with a particular focus on dynamic programming as a key technique for optimizing solutions. I provided Python code snippets for each problem, demonstrating practical implementations of the discussed algorithms.
+I also conducted a detailed analysis of the time complexity of algorithms, considering factors like subproblems and their computation times.
+In cases where problems had a visual representation, I discussed graph plotting to enhance understanding.
+I ensured that output explanations and verification were included to facilitate a clear understanding of code results.
+Additionally, I emphasized the importance of problem design, encouraging the creation of engaging problems with unique aspects while aligning with classic problems like the knapsack problem.
+
