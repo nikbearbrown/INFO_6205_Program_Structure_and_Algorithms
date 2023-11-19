@@ -23,3 +23,12 @@ In the process of completing this assignment, I learnt several key concepts rela
 
 **NP-hardness:**
 + A problem is said to be NP-hard if any problem in NP can be reduced to it in polynomial time.
+
+**Constraint-Based Selection:**
++ Leveraged the concept of selecting a subset of speakers under constraints, akin to choosing a limited number of musicians for an orchestra ensemble.
+
+**Efficient Subset Selection:**
++ Learned to strategically select subsets by balancing criteria fulfillment and constraint limitations, similar to the challenge of forming an efficient orchestra ensemble.
+
+**Bipartite Matching:**
++ A technique for matching pairs of nodes in a bipartite graph, ensuring that no two nodes in the same set are matched.
