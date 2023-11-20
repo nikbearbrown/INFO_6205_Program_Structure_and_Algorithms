@@ -64,3 +64,9 @@ Q4. Related to Master Theorem - 15 points
 Q5. Related to Knapsack Problem - 20 points
 Q6. Related to Network Flow - 20 points
 
+# Assignment 4
+
+In this assignment, I learned about NP complete problems and how to prove if one problem is NP complete or not.
+
+I have tried to follow a similar structure as that of the sample problems. There are a total of 5 questions each containing 20 points, coming to a total of 100 points.
+
