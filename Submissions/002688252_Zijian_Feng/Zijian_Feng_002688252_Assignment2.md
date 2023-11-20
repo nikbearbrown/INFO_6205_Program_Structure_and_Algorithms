@@ -10,4 +10,4 @@ In this assignment, ChatGPT has demonstrated powerful problem-solving capabiliti
 
 ## What I learned in this assignment
 
-After doing this assignment, I have a better understanding of dp problem and some graph raltive problems.
+After doing this assignment, I have a better understanding of dp problem and some graph relative problems.
