@@ -1,0 +1,18 @@
+Assignment-4 summary
+
+Contrary to my original expectations, ChatGPT was quite prone to generating nonsensical solutions to NP-Completeness type problems. 
+I generated about 40 different questions and solutions using various patterns of prompts but none of them resulted in a coherent question and answer combination.
+Very frequently, it generated exactly the same premise as that input that I gave it, even when expressly instructed to generate a new premise.
+Regenerating ChatGPT answers only resulted in the answers getting more and more out of touch and unhinged.
+
+However, generating just questions was not nearly as bad, and some were even quite creative. 
+Although most of them needed some modifications to make them less unambiguous, I took inspiration from some of the premises that it generated.
+Interestingly enough, almost all of the times that it generated interesting and reasonably sensible premises were when I didn't explicitly provide a premise to begin with.
+
+The assignment helped me learn a lot about transformations, and I was exposed to many incredibly clever examples of seemingly unrelated problems reducing to each other.
+I also learned from this assignment that knapsack type questions are not actually polynomial, but pseudopolynomial, which I wasn't aware of before. 
+
+I also learned a lot about set and graph theory, and the various terms, I would previously need to look up to understand are much clearer now, such as cliques and covers.
+Also, the complexity or hardness of a problem being more or less than another was a concept I was struggling with, but after studying the set of problems and reductions, I can see the patterns of complexity and what it means to be harder than something else.
+
+This also gives me perspective on the current state of the world and why technology is taking the route that it is. Deterministic unsolvability of many real world problems explains a lot about why things are the way they are with cryptography, pathfinding, etc.
