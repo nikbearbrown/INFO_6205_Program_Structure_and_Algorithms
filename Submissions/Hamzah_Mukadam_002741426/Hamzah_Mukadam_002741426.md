@@ -7,3 +7,6 @@ I went over all the Sample problems for assignment 2 given in the document. Util
 
 Assignment 3: 
 Went over the sample questions and worked with topics such as Masters theorem, 01 Knapsack problem, Netfork flow theory, Bellman-Ford algorithm, Ford-Fulkerson algorithm, Preflow-Push maximum flow algorithm, Polynomial-time algorithm
+
+Assignment 4:
+Worked on NP problems including NP complete and understood the concepts and underlying challenges in those questions
