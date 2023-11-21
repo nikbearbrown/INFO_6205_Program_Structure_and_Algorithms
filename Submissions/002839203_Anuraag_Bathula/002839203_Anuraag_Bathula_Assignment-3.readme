@@ -1,0 +1,17 @@
+Assignment-3 summary
+
+While using ChatGPT to help me generate questions for this assignment, I ran into issues with the Master Theorem question. It confidently generated questions with incorrect solutions majority of the time. 
+In hindsight, although it was still helpful in creating equations out of thin air, I still had to verify each solution carefully (as we should with generative AI tools). 
+It is surprising that with equation type of questions such as master theorem, the error rate is much lower than the usual 85-95% correctness rate that I was expecting.
+
+ChatGPT also helped in generating topic names to define in Q1. It strikes me that it is a very helpful tool to generate ideas and questions for you when you're looking for new proposals. Although the solutions aren't guaranteed to be correct, they can still be helpful as practice.
+
+I explored multiple graph storage data structures in this assignment. I used an adjacency list for Q2 Bellman-Ford algorithm implementation, and an adjacency matrix for Q3 and Q5 Ford-Fulkerson algorithm implementations. 
+The different data structures had their advantages and disadvantages, which taught me a lot. For Bellman-Ford, I preferred to use an adjacency list as it is more space efficient and easier to iterate upon. 
+However, I found it less convenient than adjacency matrix while implementing the Ford-Fulkerson algorithm. This is because even though adjacency matrix takes more space, it was easier to change weights of edges and add new edges which is required for the Ford-Fulkerson implementation.
+
+I learned a lot about the intricacies of Bellman-Ford and Ford-Fulkerson during the course of this assignment. I had some issues with terminating the algorithm and finding negative cycles while I was implementing Bellman-Ford.
+In addition, I had major trouble with infinite recursion during the depth-frist search in Ford-Fulkerson, as the vertices having double sided edges meant that the search kept bouncing back and forth between any two adjacent nodes. 
+I solved this using an additional boolean array "visited" which kept track of already-visited nodes during the depth-first search.
+
+I also learned how powerful network flow transformations were in solving matching questions, such as optimally matching the two sets in any bipartite graph. 
