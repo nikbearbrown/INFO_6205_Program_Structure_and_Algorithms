@@ -17,19 +17,20 @@ Each question is divided into 3 sections:
 3. 3 parts : 15 points (5 points, 5 points, 5 points)
 4. 4 parts : 16 points (4 points, 4 points, 4 points, 4 points)
 5. 4 parts : 15 points (2 points, 3 points, 5 points, 5 points)
+6. 3 parts : 10 points (2 points, 4 points, 4 points)
+7. 3 parts : 15 points (5 points, 5 points, 5 points)
+8. 10 points
+9. 5 points
+10. 5 points
 
-Total : 68 points
+Total : 113 points
 
 ## Topics covered:
-- Network Flow
-    - Ford Fulkerson
+- Probability
+- Graph theory
 - NP Completeness
-    - Reductions
-    - NP Hard
-    - NP Complete
-- Scheduling
-- Dynamic Resource Allocation
-- Graph partitioning
+- Coupon Collector's Problem
+- Chernoff bounds
 
 ## Reflection
 
