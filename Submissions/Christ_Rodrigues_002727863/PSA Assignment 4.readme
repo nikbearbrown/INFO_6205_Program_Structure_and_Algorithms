@@ -1,0 +1,79 @@
+
+
+## Q1: Vertex-Disjoint Cycle-Cover Problem
+
+### A. Vertex-Disjoint Cycle-Cover in P?
+No, the Vertex-Disjoint Cycle-Cover problem is not in P. It is a known NP-complete problem, generalizing the NP-complete Vertex Cover problem. The naive approach involves checking all subsets of vertices, making it an exponential-time algorithm.
+
+### B. 3-Cycle-Cover in NP?
+Yes, the 3-Cycle-Cover problem is in NP. A certificate for a "yes" instance is the 3-cycle cover itself, and verification can be done in linear time, making it a polynomial-time verification.
+
+### C. 3-Cycle-Cover NP-Complete?
+Yes, the 3-Cycle-Cover problem is NP-complete. A reduction from the well-known 3-SAT problem is used, creating gadgets for clauses and connections between conflicting literals. The polynomial-time reduction ensures correctness.
+
+```python
+# Python implementation of 3-Cycle-Cover reduction from 3-SAT
+class ThreeCycleCover:
+    # ... (see provided Python code)
+
+# Example usage
+sat_formula = [('a', 'b', 'c'), ('d', 'e', 'f')]
+three_cycle_cover_problem = ThreeCycleCover(sat_formula)
+three_cycle_cover_problem.create_3_cycle_cover_graph()
+cover_solution = three_cycle_cover_problem.find_3_cycle_cover()
+
+# Check if the found cover is valid
+if cover_solution:
+    print("3-Cycle Cover found:", cover_solution)
+else:
+    print("No valid 3-Cycle Cover.")
+```
+
+## Q2: Directed Disjoint Paths Problem
+
+The Directed Disjoint Paths Problem is NP-hard, especially in the context of directed graphs. The complexity arises from the connection with the k disjoint shortest paths problem and the inherent difficulty when dealing with positive edge lengths.
+
+## Q3: Cheapest Teacher Set Problem
+
+The Cheapest Teacher Set problem, aiming to ensure at least one skilled instructor for each of the required skills, is NP-complete. The proof involves a polynomial-time reduction from the Set Cover problem, showcasing the computational intricacies in optimizing teacher selection for diverse skill sets.
+
+```python
+# Python implementation of Cheapest Teacher Set reduction from Set Cover
+def set_cover_to_cheapest_teacher_set(U, subsets, k):
+    # ... (see provided Python code)
+
+# Example Usage
+U = [1, 2, 3, 4, 5]
+subsets = [[1, 2, 3], [2, 4], [3, 5], [4, 5]]
+k = 2
+
+set_cover_to_cheapest_teacher_set(U, subsets, k)
+```
+
+## Q4: Efficient Recruiting Problem
+
+The Efficient Recruiting Problem, addressing the challenge of hiring counselors with specific sports qualifications, is NP-complete. It is proven through a polynomial-time reduction from the Set Cover problem, emphasizing the intricate nature of counselor selection for diverse sports.
+
+```python
+# Python implementation of Efficient Recruiting reduction from Set Cover
+def set_cover_to_efficient_recruiting(U, subsets, k):
+    # ... (see provided Python code)
+
+# New Example Usage
+U = ["Soccer", "Swimming", "Cycling", "Running"]
+subsets = [["Soccer", "Swimming"], ["Swimming", "Cycling"], ["Cycling", "Running"], ["Soccer", "Running"]]
+k = 2
+
+set_cover_to_efficient_recruiting(U, subsets, k)
+```
+
+## Q6: Maximum Flow Cooking Schedule
+
+The Maximum Flow Cooking Schedule algorithm, framed as a maximum flow problem, efficiently organizes the cooking schedule in a shared kitchen scenario. The feasibility of matching all residents with one of the nights depends on specific scheduling constraints.
+
+```python
+# Python implementation of Maximum Flow Cooking Schedule
+# ... (see provided Python code)
+```
+
+Refer to the individual question sections for detailed explanations and examples.
